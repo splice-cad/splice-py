@@ -1,0 +1,3385 @@
+{
+  "bom": {
+    "W10": {
+      "instance_id": "W10",
+      "part": {
+        "created_at": "2025-06-14T19:20:40.369329Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/GPTMUL1426HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 14AWG 60V GRN 25'",
+        "id": "2456a4c7-56de-45a0-b485-31cba3623680",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/418/MFG_14STRGREUL142625.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "14STRGREUL14",
+        "part_id": "2456a4c7-56de-45a0-b485-31cba3623680",
+        "spec": {
+          "awg": 14,
+          "color": "green",
+          "conductor_type": "stranded",
+          "part_id": "2456a4c7-56de-45a0-b485-31cba3623680",
+          "stranding": "19/27",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "W2": {
+      "instance_id": "W2",
+      "part": {
+        "created_at": "2025-06-14T19:20:40.369329Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/GPTMUL1426HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 14AWG 60V BLK 25'",
+        "id": "493584ce-2dc0-4694-a89c-ccfb819124f0",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/418/MFG_14STRBLAUL142625.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "14STRBLAUL14",
+        "part_id": "493584ce-2dc0-4694-a89c-ccfb819124f0",
+        "spec": {
+          "awg": 14,
+          "color": "black",
+          "conductor_type": "stranded",
+          "part_id": "493584ce-2dc0-4694-a89c-ccfb819124f0",
+          "stranding": "19/27",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "CB3": {
+      "instance_id": "CB3",
+      "part": {
+        "created_at": "2025-08-01T19:10:48.260034Z",
+        "datasheet_url": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/913/Narrow_Elect_Circuit_Breaker_Ds.pdf",
+        "description": "ELECT CIRCUIT BREAKER 1-8A 24VDC",
+        "id": "d26a03a7-69e4-4b3a-ae55-51f2775abb9e",
+        "img_url": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/695/2908262.JPG",
+        "kind": "connector",
+        "manufacturer": "Phoenix Contact",
+        "mpn": "2908262",
+        "part_id": "d26a03a7-69e4-4b3a-ae55-51f2775abb9e",
+        "spec": {
+          "bridged_positions": null,
+          "category": "circuit_breaker",
+          "category_spec": {
+            "actuator_type": "Lever",
+            "breaker_type": "Solid State",
+            "current_rating": 8,
+            "interrupt_rating": "",
+            "mounting_type": "DIN Rail",
+            "operating_temperature": "",
+            "poles": 1,
+            "voltage_rating_ac": "",
+            "voltage_rating_dc": 24
+          },
+          "color": "gray",
+          "contact_gender": "female",
+          "contact_termination": "screw_terminal",
+          "created_by_user_id": "1744109a-8930-4871-aaa0-144b2af8493e",
+          "custom_properties": {
+            "editor_state": {
+              "mate_elements": {
+                "circles": [
+                  {
+                    "color": "#333333",
+                    "cx": 230,
+                    "cy": 157.5,
+                    "fill": "#333333",
+                    "id": "el_c90iwwoc3",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 200,
+                    "cy": 157.5,
+                    "fill": "#333333",
+                    "id": "el_jibkmaodq",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 132.5,
+                    "cy": 157.5,
+                    "fill": "#333333",
+                    "id": "el_pe9zb2zt5",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 292.5,
+                    "cy": 157.5,
+                    "fill": "#333333",
+                    "id": "el_b1caah1we",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 200,
+                    "cy": 142.5,
+                    "fill": "#333333",
+                    "id": "el_1fhbqcfxu",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 230,
+                    "cy": 142.5,
+                    "fill": "#333333",
+                    "id": "el_4qq7y7fa8",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 162.5,
+                    "cy": 135,
+                    "fill": "#333333",
+                    "id": "el_zm8a8byyn",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 162.5,
+                    "cy": 125,
+                    "fill": "#333333",
+                    "id": "el_ic81hyakv",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 155,
+                    "cy": 135,
+                    "fill": "#333333",
+                    "id": "el_wpxk6fsfh",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  }
+                ],
+                "femalePins": [],
+                "lines": [
+                  {
+                    "color": "#333333",
+                    "id": "el_8ptcu14nt",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 3.5,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 130,
+                    "x2": 200,
+                    "y1": 157.5,
+                    "y2": 157.5
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_vcbmd5t5d",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 4,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 200,
+                    "x2": 200,
+                    "y1": 140,
+                    "y2": 157.5
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_djngilt2r",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 4,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 162.5,
+                    "x2": 162.5,
+                    "y1": 122.5,
+                    "y2": 135
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_pnp073xgb",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 3.5,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 152.5,
+                    "x2": 160,
+                    "y1": 135,
+                    "y2": 135
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_pfflbsusn",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 3.5,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 230,
+                    "x2": 295,
+                    "y1": 157.5,
+                    "y2": 157.5
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_rlxfau214",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 4,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 230,
+                    "x2": 230,
+                    "y1": 140,
+                    "y2": 157.5
+                  }
+                ],
+                "malePins": [],
+                "paths": [],
+                "polygons": [
+                  {
+                    "closed": true,
+                    "color": "#333333",
+                    "cornerRadius": 4,
+                    "fill": "#757575",
+                    "id": "el_cb_body",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "points": [
+                      {
+                        "x": 105,
+                        "y": 190
+                      },
+                      {
+                        "x": 105,
+                        "y": 150
+                      },
+                      {
+                        "x": 125,
+                        "y": 150
+                      },
+                      {
+                        "x": 130,
+                        "y": 125
+                      },
+                      {
+                        "x": 150,
+                        "y": 125
+                      },
+                      {
+                        "x": 155,
+                        "y": 100
+                      },
+                      {
+                        "x": 190,
+                        "y": 100
+                      },
+                      {
+                        "x": 190,
+                        "y": 115
+                      },
+                      {
+                        "x": 240,
+                        "y": 115
+                      },
+                      {
+                        "x": 240,
+                        "y": 100
+                      },
+                      {
+                        "x": 275,
+                        "y": 100
+                      },
+                      {
+                        "x": 275,
+                        "y": 125
+                      },
+                      {
+                        "x": 295,
+                        "y": 125
+                      },
+                      {
+                        "x": 300,
+                        "y": 150
+                      },
+                      {
+                        "x": 320,
+                        "y": 150
+                      },
+                      {
+                        "x": 320,
+                        "y": 190
+                      },
+                      {
+                        "x": 250,
+                        "y": 200
+                      },
+                      {
+                        "x": 250,
+                        "y": 190
+                      },
+                      {
+                        "x": 175,
+                        "y": 190
+                      },
+                      {
+                        "x": 175,
+                        "y": 200
+                      }
+                    ],
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "polygon",
+                    "visible": true
+                  }
+                ],
+                "rectangles": [
+                  {
+                    "color": "#E07C2B",
+                    "cornerRadius": 2,
+                    "fill": "#E07C2B",
+                    "height": 7.5,
+                    "id": "el_vtjapea35",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#E07C2B",
+                    "thickness": 2,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 35,
+                    "x": 195,
+                    "y": 177.5
+                  }
+                ]
+              },
+              "mate_pins": [
+                {
+                  "gender": "female",
+                  "index": 0,
+                  "pinNumber": "IN+",
+                  "radius": 14,
+                  "x": 110,
+                  "y": 155
+                },
+                {
+                  "gender": "female",
+                  "index": 1,
+                  "pinNumber": "IN-",
+                  "radius": 14,
+                  "x": 135,
+                  "y": 130
+                },
+                {
+                  "gender": "female",
+                  "index": 2,
+                  "pinNumber": "IN-",
+                  "radius": 14,
+                  "x": 160,
+                  "y": 105
+                },
+                {
+                  "gender": "female",
+                  "index": 3,
+                  "pinNumber": "IN+",
+                  "radius": 14,
+                  "x": 200,
+                  "y": 120
+                },
+                {
+                  "gender": "female",
+                  "index": 4,
+                  "pinNumber": "OUT+",
+                  "radius": 14,
+                  "x": 230,
+                  "y": 120
+                },
+                {
+                  "gender": "female",
+                  "index": 5,
+                  "pinNumber": "SI",
+                  "radius": 14,
+                  "x": 270,
+                  "y": 105
+                },
+                {
+                  "gender": "female",
+                  "index": 6,
+                  "pinNumber": "RST",
+                  "radius": 14,
+                  "x": 290,
+                  "y": 130
+                },
+                {
+                  "gender": "female",
+                  "index": 7,
+                  "pinNumber": "OUT+",
+                  "radius": 14,
+                  "x": 315,
+                  "y": 155
+                }
+              ],
+              "pin_elements": {
+                "circles": [
+                  {
+                    "color": "#333333",
+                    "cx": 230,
+                    "cy": 157.5,
+                    "fill": "#333333",
+                    "id": "el_c90iwwoc3",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 200,
+                    "cy": 157.5,
+                    "fill": "#333333",
+                    "id": "el_jibkmaodq",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 132.5,
+                    "cy": 157.5,
+                    "fill": "#333333",
+                    "id": "el_pe9zb2zt5",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 292.5,
+                    "cy": 157.5,
+                    "fill": "#333333",
+                    "id": "el_b1caah1we",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 200,
+                    "cy": 142.5,
+                    "fill": "#333333",
+                    "id": "el_1fhbqcfxu",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 230,
+                    "cy": 142.5,
+                    "fill": "#333333",
+                    "id": "el_4qq7y7fa8",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 162.5,
+                    "cy": 135,
+                    "fill": "#333333",
+                    "id": "el_zm8a8byyn",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 162.5,
+                    "cy": 125,
+                    "fill": "#333333",
+                    "id": "el_ic81hyakv",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 155,
+                    "cy": 135,
+                    "fill": "#333333",
+                    "id": "el_wpxk6fsfh",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  }
+                ],
+                "femalePins": [],
+                "lines": [
+                  {
+                    "color": "#333333",
+                    "id": "el_8ptcu14nt",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 3.5,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 130,
+                    "x2": 200,
+                    "y1": 157.5,
+                    "y2": 157.5
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_vcbmd5t5d",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 4,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 200,
+                    "x2": 200,
+                    "y1": 140,
+                    "y2": 157.5
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_djngilt2r",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 4,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 162.5,
+                    "x2": 162.5,
+                    "y1": 122.5,
+                    "y2": 135
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_pnp073xgb",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 3.5,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 152.5,
+                    "x2": 160,
+                    "y1": 135,
+                    "y2": 135
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_pfflbsusn",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 3.5,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 230,
+                    "x2": 295,
+                    "y1": 157.5,
+                    "y2": 157.5
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_rlxfau214",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 4,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 230,
+                    "x2": 230,
+                    "y1": 140,
+                    "y2": 157.5
+                  }
+                ],
+                "malePins": [],
+                "paths": [],
+                "polygons": [
+                  {
+                    "closed": true,
+                    "color": "#333333",
+                    "cornerRadius": 4,
+                    "fill": "#757575",
+                    "id": "el_cb_body",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "points": [
+                      {
+                        "x": 105,
+                        "y": 190
+                      },
+                      {
+                        "x": 105,
+                        "y": 150
+                      },
+                      {
+                        "x": 125,
+                        "y": 150
+                      },
+                      {
+                        "x": 130,
+                        "y": 125
+                      },
+                      {
+                        "x": 150,
+                        "y": 125
+                      },
+                      {
+                        "x": 155,
+                        "y": 100
+                      },
+                      {
+                        "x": 190,
+                        "y": 100
+                      },
+                      {
+                        "x": 190,
+                        "y": 115
+                      },
+                      {
+                        "x": 240,
+                        "y": 115
+                      },
+                      {
+                        "x": 240,
+                        "y": 100
+                      },
+                      {
+                        "x": 275,
+                        "y": 100
+                      },
+                      {
+                        "x": 275,
+                        "y": 125
+                      },
+                      {
+                        "x": 295,
+                        "y": 125
+                      },
+                      {
+                        "x": 300,
+                        "y": 150
+                      },
+                      {
+                        "x": 320,
+                        "y": 150
+                      },
+                      {
+                        "x": 320,
+                        "y": 190
+                      },
+                      {
+                        "x": 250,
+                        "y": 200
+                      },
+                      {
+                        "x": 250,
+                        "y": 190
+                      },
+                      {
+                        "x": 175,
+                        "y": 190
+                      },
+                      {
+                        "x": 175,
+                        "y": 200
+                      }
+                    ],
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "polygon",
+                    "visible": true
+                  }
+                ],
+                "rectangles": [
+                  {
+                    "color": "#E07C2B",
+                    "cornerRadius": 2,
+                    "fill": "#E07C2B",
+                    "height": 7.5,
+                    "id": "el_vtjapea35",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#E07C2B",
+                    "thickness": 2,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 35,
+                    "x": 195,
+                    "y": 177.5
+                  }
+                ]
+              }
+            },
+            "version": "1.0"
+          },
+          "custom_svg": {
+            "mate_side": "<svg viewBox=\"76 43.125 273 204.75\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 108.95979797464467 190.56568542494924 Q 105 190 105 186 L 105 154 Q 105 150 109 150 L 121 150 Q 125 150 125.78446454055273 146.0776772972363 L 129.21553545944727 128.9223227027637 Q 130 125 134 125 L 146 125 Q 150 125 150.78446454055273 121.07767729723632 L 154.21553545944727 103.92232270276368 Q 155 100 159 100 L 186 100 Q 190 100 190 104 L 190 111 Q 190 115 194 115 L 236 115 Q 240 115 240 111 L 240 104 Q 240 100 244 100 L 271 100 Q 275 100 275 104 L 275 121 Q 275 125 279 125 L 291 125 Q 295 125 295.78446454055273 128.9223227027637 L 299.21553545944727 146.0776772972363 Q 300 150 304 150 L 316 150 Q 320 150 320 154 L 320 186 Q 320 190 316.0402020253553 190.56568542494924 L 253.2998316455372 199.52859547920897 Q 250 200 250 196.66666666666666 L 250 193.33333333333334 Q 250 190 246.66666666666666 190 L 178.33333333333334 190 Q 175 190 175 193.33333333333334 L 175 196.66666666666666 Q 175 200 171.7001683544628 199.52859547920897 Z\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#757575\" data-type=\"polygon\" data-corner-radius=\"4\" data-original-points='[{\"x\":105,\"y\":190},{\"x\":105,\"y\":150},{\"x\":125,\"y\":150},{\"x\":130,\"y\":125},{\"x\":150,\"y\":125},{\"x\":155,\"y\":100},{\"x\":190,\"y\":100},{\"x\":190,\"y\":115},{\"x\":240,\"y\":115},{\"x\":240,\"y\":100},{\"x\":275,\"y\":100},{\"x\":275,\"y\":125},{\"x\":295,\"y\":125},{\"x\":300,\"y\":150},{\"x\":320,\"y\":150},{\"x\":320,\"y\":190},{\"x\":250,\"y\":200},{\"x\":250,\"y\":190},{\"x\":175,\"y\":190},{\"x\":175,\"y\":200}]'/><line x1=\"130\" y1=\"157.5\" x2=\"200\" y2=\"157.5\" stroke=\"#333333\" stroke-width=\"3.5\"/><line x1=\"200\" y1=\"140\" x2=\"200\" y2=\"157.5\" stroke=\"#333333\" stroke-width=\"4\"/><line x1=\"162.5\" y1=\"122.5\" x2=\"162.5\" y2=\"135\" stroke=\"#333333\" stroke-width=\"4\"/><line x1=\"152.5\" y1=\"135\" x2=\"160\" y2=\"135\" stroke=\"#333333\" stroke-width=\"3.5\"/><line x1=\"230\" y1=\"157.5\" x2=\"295\" y2=\"157.5\" stroke=\"#333333\" stroke-width=\"3.5\"/><line x1=\"230\" y1=\"140\" x2=\"230\" y2=\"157.5\" stroke=\"#333333\" stroke-width=\"4\"/><rect x=\"195\" y=\"177.5\" width=\"35\" height=\"7.5\" rx=\"2\" ry=\"2\" stroke=\"#E07C2B\" stroke-width=\"2\" fill=\"#E07C2B\"/><circle cx=\"230\" cy=\"157.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"200\" cy=\"157.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"132.5\" cy=\"157.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"292.5\" cy=\"157.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"200\" cy=\"142.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"230\" cy=\"142.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"162.5\" cy=\"135\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"162.5\" cy=\"125\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"155\" cy=\"135\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"110\" cy=\"155\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"110\" y=\"159\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">IN+</text><circle cx=\"135\" cy=\"130\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"135\" y=\"134\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">IN-</text><circle cx=\"160\" cy=\"105\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"160\" y=\"109\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">IN-</text><circle cx=\"200\" cy=\"120\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"200\" y=\"124\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">IN+</text><circle cx=\"230\" cy=\"120\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"230\" y=\"124\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">OUT+</text><circle cx=\"270\" cy=\"105\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"270\" y=\"109\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">SI</text><circle cx=\"290\" cy=\"130\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"290\" y=\"134\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">RST</text><circle cx=\"315\" cy=\"155\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"315\" y=\"159\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">OUT+</text></svg>",
+            "wire_side": "<svg viewBox=\"76 43.125 273 204.75\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 691.0402020253554 190.56568542494924 Q 695 190 695 186 L 695 154 Q 695 150 691 150 L 679 150 Q 675 150 674.2155354594472 146.0776772972363 L 670.7844645405528 128.9223227027637 Q 670 125 666 125 L 654 125 Q 650 125 649.2155354594472 121.07767729723632 L 645.7844645405528 103.92232270276368 Q 645 100 641 100 L 614 100 Q 610 100 610 104 L 610 111 Q 610 115 606 115 L 564 115 Q 560 115 560 111 L 560 104 Q 560 100 556 100 L 529 100 Q 525 100 525 104 L 525 121 Q 525 125 521 125 L 509 125 Q 505 125 504.21553545944727 128.9223227027637 L 500.78446454055273 146.0776772972363 Q 500 150 496 150 L 484 150 Q 480 150 480 154 L 480 186 Q 480 190 483.9597979746447 190.56568542494924 L 546.7001683544628 199.52859547920897 Q 550 200 550 196.66666666666666 L 550 193.33333333333334 Q 550 190 553.3333333333334 190 L 621.6666666666666 190 Q 625 190 625 193.33333333333334 L 625 196.66666666666666 Q 625 200 628.2998316455372 199.52859547920897 Z\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#757575\" data-type=\"polygon\" data-corner-radius=\"4\" data-original-points='[{\"x\":695,\"y\":190},{\"x\":695,\"y\":150},{\"x\":675,\"y\":150},{\"x\":670,\"y\":125},{\"x\":650,\"y\":125},{\"x\":645,\"y\":100},{\"x\":610,\"y\":100},{\"x\":610,\"y\":115},{\"x\":560,\"y\":115},{\"x\":560,\"y\":100},{\"x\":525,\"y\":100},{\"x\":525,\"y\":125},{\"x\":505,\"y\":125},{\"x\":500,\"y\":150},{\"x\":480,\"y\":150},{\"x\":480,\"y\":190},{\"x\":550,\"y\":200},{\"x\":550,\"y\":190},{\"x\":625,\"y\":190},{\"x\":625,\"y\":200}]'/><line x1=\"670\" y1=\"157.5\" x2=\"600\" y2=\"157.5\" stroke=\"#333333\" stroke-width=\"3.5\"/><line x1=\"600\" y1=\"140\" x2=\"600\" y2=\"157.5\" stroke=\"#333333\" stroke-width=\"4\"/><line x1=\"637.5\" y1=\"122.5\" x2=\"637.5\" y2=\"135\" stroke=\"#333333\" stroke-width=\"4\"/><line x1=\"647.5\" y1=\"135\" x2=\"640\" y2=\"135\" stroke=\"#333333\" stroke-width=\"3.5\"/><line x1=\"570\" y1=\"157.5\" x2=\"505\" y2=\"157.5\" stroke=\"#333333\" stroke-width=\"3.5\"/><line x1=\"570\" y1=\"140\" x2=\"570\" y2=\"157.5\" stroke=\"#333333\" stroke-width=\"4\"/><rect x=\"570\" y=\"177.5\" width=\"35\" height=\"7.5\" rx=\"2\" ry=\"2\" stroke=\"#E07C2B\" stroke-width=\"2\" fill=\"#E07C2B\"/><circle cx=\"570\" cy=\"157.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"600\" cy=\"157.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"667.5\" cy=\"157.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"507.5\" cy=\"157.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"600\" cy=\"142.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"570\" cy=\"142.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"637.5\" cy=\"135\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"637.5\" cy=\"125\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"645\" cy=\"135\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"690\" cy=\"155\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"690\" y=\"159\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">IN+</text><circle cx=\"665\" cy=\"130\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"665\" y=\"134\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">IN-</text><circle cx=\"640\" cy=\"105\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"640\" y=\"109\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">IN-</text><circle cx=\"600\" cy=\"120\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"600\" y=\"124\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">IN+</text><circle cx=\"570\" cy=\"120\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"570\" y=\"124\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">OUT+</text><circle cx=\"530\" cy=\"105\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"530\" y=\"109\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">SI</text><circle cx=\"510\" cy=\"130\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"510\" y=\"134\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">RST</text><circle cx=\"485\" cy=\"155\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"485\" y=\"159\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">OUT+</text></svg>"
+          },
+          "fastening_type": "",
+          "features": [
+            "electronic_protection",
+            "remote_reset",
+            "status_indication"
+          ],
+          "insulation_material": "",
+          "is_approved": null,
+          "is_custom": true,
+          "is_public": true,
+          "keying_code": "",
+          "mounting_type": "DIN Rail",
+          "operating_temp_f": "",
+          "part_id": "d26a03a7-69e4-4b3a-ae55-51f2775abb9e",
+          "pin_mapping": {
+            "0": "IN+",
+            "1": "IN-",
+            "2": "IN-",
+            "3": "IN+",
+            "4": "OUT+",
+            "5": "SI",
+            "6": "RST",
+            "7": "OUT+"
+          },
+          "pitch_mm": null,
+          "positions": 8,
+          "row_spacing_mm": null,
+          "rows": null,
+          "series": "",
+          "shape": "rectangular",
+          "wire_awg_max": null,
+          "wire_awg_min": null
+        }
+      },
+      "unit": "pcs"
+    },
+    "W7": {
+      "instance_id": "W7",
+      "part": {
+        "created_at": "2025-06-14T19:20:40.369329Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/GPTMUL1426HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 14AWG 60V BLUE 25'",
+        "id": "4410563d-f6d6-4b81-bf2a-5f689f502bf1",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/418/MFG_14STRBLUUL142625.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "14STRBLUUL14",
+        "part_id": "4410563d-f6d6-4b81-bf2a-5f689f502bf1",
+        "spec": {
+          "awg": 14,
+          "color": "blue",
+          "conductor_type": "stranded",
+          "part_id": "4410563d-f6d6-4b81-bf2a-5f689f502bf1",
+          "stranding": "19/27",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "W4": {
+      "instance_id": "W4",
+      "part": {
+        "created_at": "2025-06-14T19:20:40.369329Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/GPTMUL1426HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 14AWG 60V BLK 25'",
+        "id": "493584ce-2dc0-4694-a89c-ccfb819124f0",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/418/MFG_14STRBLAUL142625.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "14STRBLAUL14",
+        "part_id": "493584ce-2dc0-4694-a89c-ccfb819124f0",
+        "spec": {
+          "awg": 14,
+          "color": "black",
+          "conductor_type": "stranded",
+          "part_id": "493584ce-2dc0-4694-a89c-ccfb819124f0",
+          "stranding": "19/27",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "X2": {
+      "instance_id": "X2",
+      "part": {
+        "created_at": "2025-07-11T20:23:15.358606Z",
+        "datasheet_url": "http://www.phoenixcontact.com/us/products/1047484/pdf",
+        "description": "TERM BLK 7POS BLACK",
+        "id": "d6d77bed-e32d-45e5-830a-a94b18e7eae9",
+        "img_url": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6130/MFG_1047484.jpg",
+        "kind": "connector",
+        "manufacturer": "Phoenix Contact",
+        "mpn": "1047484",
+        "part_id": "d6d77bed-e32d-45e5-830a-a94b18e7eae9",
+        "spec": {
+          "bridged_positions": [
+            [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          ],
+          "category": null,
+          "category_spec": null,
+          "color": "Black",
+          "contact_gender": "none",
+          "contact_termination": "Push In, Spring",
+          "created_by_user_id": null,
+          "fastening_type": null,
+          "features": [],
+          "insulation_material": null,
+          "is_approved": null,
+          "is_custom": false,
+          "is_public": false,
+          "keying_code": null,
+          "mounting_type": "Direct Mount",
+          "operating_temp_f": null,
+          "part_id": "d6d77bed-e32d-45e5-830a-a94b18e7eae9",
+          "pitch_mm": null,
+          "positions": 7,
+          "row_spacing_mm": null,
+          "rows": 2,
+          "series": "PTFIX",
+          "shape": "terminal_block",
+          "wire_awg_max": 24,
+          "wire_awg_min": 10
+        }
+      },
+      "unit": "pcs"
+    },
+    "CB2": {
+      "instance_id": "CB2",
+      "part": {
+        "created_at": "2025-08-01T19:10:48.260034Z",
+        "datasheet_url": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/913/Narrow_Elect_Circuit_Breaker_Ds.pdf",
+        "description": "ELECT CIRCUIT BREAKER 1-8A 24VDC",
+        "id": "d26a03a7-69e4-4b3a-ae55-51f2775abb9e",
+        "img_url": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/695/2908262.JPG",
+        "kind": "connector",
+        "manufacturer": "Phoenix Contact",
+        "mpn": "2908262",
+        "part_id": "d26a03a7-69e4-4b3a-ae55-51f2775abb9e",
+        "spec": {
+          "bridged_positions": null,
+          "category": "circuit_breaker",
+          "category_spec": {
+            "actuator_type": "Lever",
+            "breaker_type": "Solid State",
+            "current_rating": 8,
+            "interrupt_rating": "",
+            "mounting_type": "DIN Rail",
+            "operating_temperature": "",
+            "poles": 1,
+            "voltage_rating_ac": "",
+            "voltage_rating_dc": 24
+          },
+          "color": "gray",
+          "contact_gender": "female",
+          "contact_termination": "screw_terminal",
+          "created_by_user_id": "1744109a-8930-4871-aaa0-144b2af8493e",
+          "custom_properties": {
+            "editor_state": {
+              "mate_elements": {
+                "circles": [
+                  {
+                    "color": "#333333",
+                    "cx": 230,
+                    "cy": 157.5,
+                    "fill": "#333333",
+                    "id": "el_c90iwwoc3",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 200,
+                    "cy": 157.5,
+                    "fill": "#333333",
+                    "id": "el_jibkmaodq",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 132.5,
+                    "cy": 157.5,
+                    "fill": "#333333",
+                    "id": "el_pe9zb2zt5",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 292.5,
+                    "cy": 157.5,
+                    "fill": "#333333",
+                    "id": "el_b1caah1we",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 200,
+                    "cy": 142.5,
+                    "fill": "#333333",
+                    "id": "el_1fhbqcfxu",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 230,
+                    "cy": 142.5,
+                    "fill": "#333333",
+                    "id": "el_4qq7y7fa8",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 162.5,
+                    "cy": 135,
+                    "fill": "#333333",
+                    "id": "el_zm8a8byyn",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 162.5,
+                    "cy": 125,
+                    "fill": "#333333",
+                    "id": "el_ic81hyakv",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 155,
+                    "cy": 135,
+                    "fill": "#333333",
+                    "id": "el_wpxk6fsfh",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  }
+                ],
+                "femalePins": [],
+                "lines": [
+                  {
+                    "color": "#333333",
+                    "id": "el_8ptcu14nt",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 3.5,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 130,
+                    "x2": 200,
+                    "y1": 157.5,
+                    "y2": 157.5
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_vcbmd5t5d",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 4,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 200,
+                    "x2": 200,
+                    "y1": 140,
+                    "y2": 157.5
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_djngilt2r",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 4,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 162.5,
+                    "x2": 162.5,
+                    "y1": 122.5,
+                    "y2": 135
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_pnp073xgb",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 3.5,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 152.5,
+                    "x2": 160,
+                    "y1": 135,
+                    "y2": 135
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_pfflbsusn",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 3.5,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 230,
+                    "x2": 295,
+                    "y1": 157.5,
+                    "y2": 157.5
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_rlxfau214",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 4,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 230,
+                    "x2": 230,
+                    "y1": 140,
+                    "y2": 157.5
+                  }
+                ],
+                "malePins": [],
+                "paths": [],
+                "polygons": [
+                  {
+                    "closed": true,
+                    "color": "#333333",
+                    "cornerRadius": 4,
+                    "fill": "#757575",
+                    "id": "el_cb_body",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "points": [
+                      {
+                        "x": 105,
+                        "y": 190
+                      },
+                      {
+                        "x": 105,
+                        "y": 150
+                      },
+                      {
+                        "x": 125,
+                        "y": 150
+                      },
+                      {
+                        "x": 130,
+                        "y": 125
+                      },
+                      {
+                        "x": 150,
+                        "y": 125
+                      },
+                      {
+                        "x": 155,
+                        "y": 100
+                      },
+                      {
+                        "x": 190,
+                        "y": 100
+                      },
+                      {
+                        "x": 190,
+                        "y": 115
+                      },
+                      {
+                        "x": 240,
+                        "y": 115
+                      },
+                      {
+                        "x": 240,
+                        "y": 100
+                      },
+                      {
+                        "x": 275,
+                        "y": 100
+                      },
+                      {
+                        "x": 275,
+                        "y": 125
+                      },
+                      {
+                        "x": 295,
+                        "y": 125
+                      },
+                      {
+                        "x": 300,
+                        "y": 150
+                      },
+                      {
+                        "x": 320,
+                        "y": 150
+                      },
+                      {
+                        "x": 320,
+                        "y": 190
+                      },
+                      {
+                        "x": 250,
+                        "y": 200
+                      },
+                      {
+                        "x": 250,
+                        "y": 190
+                      },
+                      {
+                        "x": 175,
+                        "y": 190
+                      },
+                      {
+                        "x": 175,
+                        "y": 200
+                      }
+                    ],
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "polygon",
+                    "visible": true
+                  }
+                ],
+                "rectangles": [
+                  {
+                    "color": "#E07C2B",
+                    "cornerRadius": 2,
+                    "fill": "#E07C2B",
+                    "height": 7.5,
+                    "id": "el_vtjapea35",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#E07C2B",
+                    "thickness": 2,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 35,
+                    "x": 195,
+                    "y": 177.5
+                  }
+                ]
+              },
+              "mate_pins": [
+                {
+                  "gender": "female",
+                  "index": 0,
+                  "pinNumber": "IN+",
+                  "radius": 14,
+                  "x": 110,
+                  "y": 155
+                },
+                {
+                  "gender": "female",
+                  "index": 1,
+                  "pinNumber": "IN-",
+                  "radius": 14,
+                  "x": 135,
+                  "y": 130
+                },
+                {
+                  "gender": "female",
+                  "index": 2,
+                  "pinNumber": "IN-",
+                  "radius": 14,
+                  "x": 160,
+                  "y": 105
+                },
+                {
+                  "gender": "female",
+                  "index": 3,
+                  "pinNumber": "IN+",
+                  "radius": 14,
+                  "x": 200,
+                  "y": 120
+                },
+                {
+                  "gender": "female",
+                  "index": 4,
+                  "pinNumber": "OUT+",
+                  "radius": 14,
+                  "x": 230,
+                  "y": 120
+                },
+                {
+                  "gender": "female",
+                  "index": 5,
+                  "pinNumber": "SI",
+                  "radius": 14,
+                  "x": 270,
+                  "y": 105
+                },
+                {
+                  "gender": "female",
+                  "index": 6,
+                  "pinNumber": "RST",
+                  "radius": 14,
+                  "x": 290,
+                  "y": 130
+                },
+                {
+                  "gender": "female",
+                  "index": 7,
+                  "pinNumber": "OUT+",
+                  "radius": 14,
+                  "x": 315,
+                  "y": 155
+                }
+              ],
+              "pin_elements": {
+                "circles": [
+                  {
+                    "color": "#333333",
+                    "cx": 230,
+                    "cy": 157.5,
+                    "fill": "#333333",
+                    "id": "el_c90iwwoc3",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 200,
+                    "cy": 157.5,
+                    "fill": "#333333",
+                    "id": "el_jibkmaodq",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 132.5,
+                    "cy": 157.5,
+                    "fill": "#333333",
+                    "id": "el_pe9zb2zt5",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 292.5,
+                    "cy": 157.5,
+                    "fill": "#333333",
+                    "id": "el_b1caah1we",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 200,
+                    "cy": 142.5,
+                    "fill": "#333333",
+                    "id": "el_1fhbqcfxu",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 230,
+                    "cy": 142.5,
+                    "fill": "#333333",
+                    "id": "el_4qq7y7fa8",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 162.5,
+                    "cy": 135,
+                    "fill": "#333333",
+                    "id": "el_zm8a8byyn",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 162.5,
+                    "cy": 125,
+                    "fill": "#333333",
+                    "id": "el_ic81hyakv",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 155,
+                    "cy": 135,
+                    "fill": "#333333",
+                    "id": "el_wpxk6fsfh",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 2.5,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  }
+                ],
+                "femalePins": [],
+                "lines": [
+                  {
+                    "color": "#333333",
+                    "id": "el_8ptcu14nt",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 3.5,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 130,
+                    "x2": 200,
+                    "y1": 157.5,
+                    "y2": 157.5
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_vcbmd5t5d",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 4,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 200,
+                    "x2": 200,
+                    "y1": 140,
+                    "y2": 157.5
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_djngilt2r",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 4,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 162.5,
+                    "x2": 162.5,
+                    "y1": 122.5,
+                    "y2": 135
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_pnp073xgb",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 3.5,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 152.5,
+                    "x2": 160,
+                    "y1": 135,
+                    "y2": 135
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_pfflbsusn",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 3.5,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 230,
+                    "x2": 295,
+                    "y1": 157.5,
+                    "y2": 157.5
+                  },
+                  {
+                    "color": "#333333",
+                    "id": "el_rlxfau214",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 4,
+                    "type": "line",
+                    "visible": true,
+                    "x1": 230,
+                    "x2": 230,
+                    "y1": 140,
+                    "y2": 157.5
+                  }
+                ],
+                "malePins": [],
+                "paths": [],
+                "polygons": [
+                  {
+                    "closed": true,
+                    "color": "#333333",
+                    "cornerRadius": 4,
+                    "fill": "#757575",
+                    "id": "el_cb_body",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "points": [
+                      {
+                        "x": 105,
+                        "y": 190
+                      },
+                      {
+                        "x": 105,
+                        "y": 150
+                      },
+                      {
+                        "x": 125,
+                        "y": 150
+                      },
+                      {
+                        "x": 130,
+                        "y": 125
+                      },
+                      {
+                        "x": 150,
+                        "y": 125
+                      },
+                      {
+                        "x": 155,
+                        "y": 100
+                      },
+                      {
+                        "x": 190,
+                        "y": 100
+                      },
+                      {
+                        "x": 190,
+                        "y": 115
+                      },
+                      {
+                        "x": 240,
+                        "y": 115
+                      },
+                      {
+                        "x": 240,
+                        "y": 100
+                      },
+                      {
+                        "x": 275,
+                        "y": 100
+                      },
+                      {
+                        "x": 275,
+                        "y": 125
+                      },
+                      {
+                        "x": 295,
+                        "y": 125
+                      },
+                      {
+                        "x": 300,
+                        "y": 150
+                      },
+                      {
+                        "x": 320,
+                        "y": 150
+                      },
+                      {
+                        "x": 320,
+                        "y": 190
+                      },
+                      {
+                        "x": 250,
+                        "y": 200
+                      },
+                      {
+                        "x": 250,
+                        "y": 190
+                      },
+                      {
+                        "x": 175,
+                        "y": 190
+                      },
+                      {
+                        "x": 175,
+                        "y": 200
+                      }
+                    ],
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "polygon",
+                    "visible": true
+                  }
+                ],
+                "rectangles": [
+                  {
+                    "color": "#E07C2B",
+                    "cornerRadius": 2,
+                    "fill": "#E07C2B",
+                    "height": 7.5,
+                    "id": "el_vtjapea35",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#E07C2B",
+                    "thickness": 2,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 35,
+                    "x": 195,
+                    "y": 177.5
+                  }
+                ]
+              }
+            },
+            "version": "1.0"
+          },
+          "custom_svg": {
+            "mate_side": "<svg viewBox=\"76 43.125 273 204.75\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 108.95979797464467 190.56568542494924 Q 105 190 105 186 L 105 154 Q 105 150 109 150 L 121 150 Q 125 150 125.78446454055273 146.0776772972363 L 129.21553545944727 128.9223227027637 Q 130 125 134 125 L 146 125 Q 150 125 150.78446454055273 121.07767729723632 L 154.21553545944727 103.92232270276368 Q 155 100 159 100 L 186 100 Q 190 100 190 104 L 190 111 Q 190 115 194 115 L 236 115 Q 240 115 240 111 L 240 104 Q 240 100 244 100 L 271 100 Q 275 100 275 104 L 275 121 Q 275 125 279 125 L 291 125 Q 295 125 295.78446454055273 128.9223227027637 L 299.21553545944727 146.0776772972363 Q 300 150 304 150 L 316 150 Q 320 150 320 154 L 320 186 Q 320 190 316.0402020253553 190.56568542494924 L 253.2998316455372 199.52859547920897 Q 250 200 250 196.66666666666666 L 250 193.33333333333334 Q 250 190 246.66666666666666 190 L 178.33333333333334 190 Q 175 190 175 193.33333333333334 L 175 196.66666666666666 Q 175 200 171.7001683544628 199.52859547920897 Z\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#757575\" data-type=\"polygon\" data-corner-radius=\"4\" data-original-points='[{\"x\":105,\"y\":190},{\"x\":105,\"y\":150},{\"x\":125,\"y\":150},{\"x\":130,\"y\":125},{\"x\":150,\"y\":125},{\"x\":155,\"y\":100},{\"x\":190,\"y\":100},{\"x\":190,\"y\":115},{\"x\":240,\"y\":115},{\"x\":240,\"y\":100},{\"x\":275,\"y\":100},{\"x\":275,\"y\":125},{\"x\":295,\"y\":125},{\"x\":300,\"y\":150},{\"x\":320,\"y\":150},{\"x\":320,\"y\":190},{\"x\":250,\"y\":200},{\"x\":250,\"y\":190},{\"x\":175,\"y\":190},{\"x\":175,\"y\":200}]'/><line x1=\"130\" y1=\"157.5\" x2=\"200\" y2=\"157.5\" stroke=\"#333333\" stroke-width=\"3.5\"/><line x1=\"200\" y1=\"140\" x2=\"200\" y2=\"157.5\" stroke=\"#333333\" stroke-width=\"4\"/><line x1=\"162.5\" y1=\"122.5\" x2=\"162.5\" y2=\"135\" stroke=\"#333333\" stroke-width=\"4\"/><line x1=\"152.5\" y1=\"135\" x2=\"160\" y2=\"135\" stroke=\"#333333\" stroke-width=\"3.5\"/><line x1=\"230\" y1=\"157.5\" x2=\"295\" y2=\"157.5\" stroke=\"#333333\" stroke-width=\"3.5\"/><line x1=\"230\" y1=\"140\" x2=\"230\" y2=\"157.5\" stroke=\"#333333\" stroke-width=\"4\"/><rect x=\"195\" y=\"177.5\" width=\"35\" height=\"7.5\" rx=\"2\" ry=\"2\" stroke=\"#E07C2B\" stroke-width=\"2\" fill=\"#E07C2B\"/><circle cx=\"230\" cy=\"157.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"200\" cy=\"157.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"132.5\" cy=\"157.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"292.5\" cy=\"157.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"200\" cy=\"142.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"230\" cy=\"142.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"162.5\" cy=\"135\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"162.5\" cy=\"125\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"155\" cy=\"135\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"110\" cy=\"155\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"110\" y=\"159\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">IN+</text><circle cx=\"135\" cy=\"130\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"135\" y=\"134\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">IN-</text><circle cx=\"160\" cy=\"105\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"160\" y=\"109\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">IN-</text><circle cx=\"200\" cy=\"120\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"200\" y=\"124\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">IN+</text><circle cx=\"230\" cy=\"120\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"230\" y=\"124\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">OUT+</text><circle cx=\"270\" cy=\"105\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"270\" y=\"109\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">SI</text><circle cx=\"290\" cy=\"130\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"290\" y=\"134\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">RST</text><circle cx=\"315\" cy=\"155\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"315\" y=\"159\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">OUT+</text></svg>",
+            "wire_side": "<svg viewBox=\"76 43.125 273 204.75\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 691.0402020253554 190.56568542494924 Q 695 190 695 186 L 695 154 Q 695 150 691 150 L 679 150 Q 675 150 674.2155354594472 146.0776772972363 L 670.7844645405528 128.9223227027637 Q 670 125 666 125 L 654 125 Q 650 125 649.2155354594472 121.07767729723632 L 645.7844645405528 103.92232270276368 Q 645 100 641 100 L 614 100 Q 610 100 610 104 L 610 111 Q 610 115 606 115 L 564 115 Q 560 115 560 111 L 560 104 Q 560 100 556 100 L 529 100 Q 525 100 525 104 L 525 121 Q 525 125 521 125 L 509 125 Q 505 125 504.21553545944727 128.9223227027637 L 500.78446454055273 146.0776772972363 Q 500 150 496 150 L 484 150 Q 480 150 480 154 L 480 186 Q 480 190 483.9597979746447 190.56568542494924 L 546.7001683544628 199.52859547920897 Q 550 200 550 196.66666666666666 L 550 193.33333333333334 Q 550 190 553.3333333333334 190 L 621.6666666666666 190 Q 625 190 625 193.33333333333334 L 625 196.66666666666666 Q 625 200 628.2998316455372 199.52859547920897 Z\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#757575\" data-type=\"polygon\" data-corner-radius=\"4\" data-original-points='[{\"x\":695,\"y\":190},{\"x\":695,\"y\":150},{\"x\":675,\"y\":150},{\"x\":670,\"y\":125},{\"x\":650,\"y\":125},{\"x\":645,\"y\":100},{\"x\":610,\"y\":100},{\"x\":610,\"y\":115},{\"x\":560,\"y\":115},{\"x\":560,\"y\":100},{\"x\":525,\"y\":100},{\"x\":525,\"y\":125},{\"x\":505,\"y\":125},{\"x\":500,\"y\":150},{\"x\":480,\"y\":150},{\"x\":480,\"y\":190},{\"x\":550,\"y\":200},{\"x\":550,\"y\":190},{\"x\":625,\"y\":190},{\"x\":625,\"y\":200}]'/><line x1=\"670\" y1=\"157.5\" x2=\"600\" y2=\"157.5\" stroke=\"#333333\" stroke-width=\"3.5\"/><line x1=\"600\" y1=\"140\" x2=\"600\" y2=\"157.5\" stroke=\"#333333\" stroke-width=\"4\"/><line x1=\"637.5\" y1=\"122.5\" x2=\"637.5\" y2=\"135\" stroke=\"#333333\" stroke-width=\"4\"/><line x1=\"647.5\" y1=\"135\" x2=\"640\" y2=\"135\" stroke=\"#333333\" stroke-width=\"3.5\"/><line x1=\"570\" y1=\"157.5\" x2=\"505\" y2=\"157.5\" stroke=\"#333333\" stroke-width=\"3.5\"/><line x1=\"570\" y1=\"140\" x2=\"570\" y2=\"157.5\" stroke=\"#333333\" stroke-width=\"4\"/><rect x=\"570\" y=\"177.5\" width=\"35\" height=\"7.5\" rx=\"2\" ry=\"2\" stroke=\"#E07C2B\" stroke-width=\"2\" fill=\"#E07C2B\"/><circle cx=\"570\" cy=\"157.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"600\" cy=\"157.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"667.5\" cy=\"157.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"507.5\" cy=\"157.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"600\" cy=\"142.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"570\" cy=\"142.5\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"637.5\" cy=\"135\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"637.5\" cy=\"125\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"645\" cy=\"135\" r=\"2.5\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#333333\"/><circle cx=\"690\" cy=\"155\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"690\" y=\"159\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">IN+</text><circle cx=\"665\" cy=\"130\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"665\" y=\"134\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">IN-</text><circle cx=\"640\" cy=\"105\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"640\" y=\"109\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">IN-</text><circle cx=\"600\" cy=\"120\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"600\" y=\"124\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">IN+</text><circle cx=\"570\" cy=\"120\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"570\" y=\"124\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">OUT+</text><circle cx=\"530\" cy=\"105\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"530\" y=\"109\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">SI</text><circle cx=\"510\" cy=\"130\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"510\" y=\"134\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">RST</text><circle cx=\"485\" cy=\"155\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"485\" y=\"159\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">OUT+</text></svg>"
+          },
+          "fastening_type": "",
+          "features": [
+            "electronic_protection",
+            "remote_reset",
+            "status_indication"
+          ],
+          "insulation_material": "",
+          "is_approved": null,
+          "is_custom": true,
+          "is_public": true,
+          "keying_code": "",
+          "mounting_type": "DIN Rail",
+          "operating_temp_f": "",
+          "part_id": "d26a03a7-69e4-4b3a-ae55-51f2775abb9e",
+          "pin_mapping": {
+            "0": "IN+",
+            "1": "IN-",
+            "2": "IN-",
+            "3": "IN+",
+            "4": "OUT+",
+            "5": "SI",
+            "6": "RST",
+            "7": "OUT+"
+          },
+          "pitch_mm": null,
+          "positions": 8,
+          "row_spacing_mm": null,
+          "rows": null,
+          "series": "",
+          "shape": "rectangular",
+          "wire_awg_max": null,
+          "wire_awg_min": null
+        }
+      },
+      "unit": "pcs"
+    },
+    "W1": {
+      "instance_id": "W1",
+      "part": {
+        "created_at": "2025-06-14T19:20:40.369329Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/GPTMUL1426HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 14AWG 60V BLK 25'",
+        "id": "493584ce-2dc0-4694-a89c-ccfb819124f0",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/418/MFG_14STRBLAUL142625.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "14STRBLAUL14",
+        "part_id": "493584ce-2dc0-4694-a89c-ccfb819124f0",
+        "spec": {
+          "awg": 14,
+          "color": "black",
+          "conductor_type": "stranded",
+          "part_id": "493584ce-2dc0-4694-a89c-ccfb819124f0",
+          "stranding": "19/27",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "W5": {
+      "instance_id": "W5",
+      "part": {
+        "created_at": "2025-06-14T19:20:40.369329Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/GPTMUL1426HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 14AWG 60V BLUE 25'",
+        "id": "4410563d-f6d6-4b81-bf2a-5f689f502bf1",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/418/MFG_14STRBLUUL142625.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "14STRBLUUL14",
+        "part_id": "4410563d-f6d6-4b81-bf2a-5f689f502bf1",
+        "spec": {
+          "awg": 14,
+          "color": "blue",
+          "conductor_type": "stranded",
+          "part_id": "4410563d-f6d6-4b81-bf2a-5f689f502bf1",
+          "stranding": "19/27",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "W8": {
+      "instance_id": "W8",
+      "part": {
+        "created_at": "2025-06-14T19:20:40.369329Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/GPTMUL1426HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 14AWG 60V BLUE 25'",
+        "id": "4410563d-f6d6-4b81-bf2a-5f689f502bf1",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/418/MFG_14STRBLUUL142625.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "14STRBLUUL14",
+        "part_id": "4410563d-f6d6-4b81-bf2a-5f689f502bf1",
+        "spec": {
+          "awg": 14,
+          "color": "blue",
+          "conductor_type": "stranded",
+          "part_id": "4410563d-f6d6-4b81-bf2a-5f689f502bf1",
+          "stranding": "19/27",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "W9": {
+      "instance_id": "W9",
+      "part": {
+        "created_at": "2025-06-14T19:20:40.369329Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/GPTMUL1426HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 14AWG 60V WHT 25'",
+        "id": "dea191b3-bf46-4d60-80e0-34fcea254274",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/418/MFG_14STRWHIUL142625.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "14STRWHIUL14",
+        "part_id": "dea191b3-bf46-4d60-80e0-34fcea254274",
+        "spec": {
+          "awg": 14,
+          "color": "white",
+          "conductor_type": "stranded",
+          "part_id": "dea191b3-bf46-4d60-80e0-34fcea254274",
+          "stranding": "19/27",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "PS1": {
+      "instance_id": "PS1",
+      "part": {
+        "created_at": "2025-08-01T19:12:56.523074Z",
+        "datasheet_url": "https://products.pulspower.com/mwdownloads/download/link/id/69",
+        "description": "AC/DC DIN RAIL SUPPLY 24V 240W",
+        "id": "6b56b64d-f0e2-44e0-b87c-330082a19b94",
+        "img_url": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2277/MFG_CP10241.jpg",
+        "kind": "connector",
+        "manufacturer": "PULS, LP",
+        "mpn": "CP10.241",
+        "part_id": "6b56b64d-f0e2-44e0-b87c-330082a19b94",
+        "spec": {
+          "bridged_positions": null,
+          "category": "power_supply",
+          "category_spec": {
+            "efficiency": 95.2,
+            "form_factor": "4.61\" L x 1.54\" W x 4.88\" H (117.0mm x 39.0mm x 124.0mm)",
+            "input_voltage_max": 264,
+            "input_voltage_min": 85,
+            "input_voltage_type": "AC",
+            "isolation": false,
+            "mounting_type": "",
+            "number_of_outputs": 1,
+            "operating_temperature": "-25°C ~ 70°C (With Derating)",
+            "output_current": 10,
+            "output_power": 240,
+            "output_voltage": 24,
+            "power_type": "",
+            "protection_features": [
+              "Adjustable Output",
+              "PFC",
+              "Universal Input"
+            ]
+          },
+          "color": "gray",
+          "contact_gender": "female",
+          "contact_termination": "screw_terminal",
+          "created_by_user_id": "1744109a-8930-4871-aaa0-144b2af8493e",
+          "custom_properties": {
+            "editor_state": {
+              "mate_elements": {
+                "circles": [],
+                "femalePins": [],
+                "lines": [],
+                "malePins": [],
+                "paths": [],
+                "polygons": [],
+                "rectangles": [
+                  {
+                    "color": "#333333",
+                    "cornerRadius": 4,
+                    "fill": "#0b165e",
+                    "height": 180,
+                    "id": "el_thkqsf279",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 6,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 140,
+                    "x": 260,
+                    "y": 20
+                  },
+                  {
+                    "color": "#333333",
+                    "cornerRadius": 4,
+                    "fill": "#919191",
+                    "height": 160,
+                    "id": "el_h945wnsx8",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 20,
+                    "x": 260,
+                    "y": 30
+                  },
+                  {
+                    "color": "#333333",
+                    "cornerRadius": 4,
+                    "fill": "#919191",
+                    "height": 100,
+                    "id": "el_zu5q4nfg2",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 20,
+                    "x": 380,
+                    "y": 90
+                  }
+                ]
+              },
+              "mate_pins": [
+                {
+                  "gender": "female",
+                  "index": 0,
+                  "pinNumber": "N",
+                  "radius": 12,
+                  "x": 400,
+                  "y": 170
+                },
+                {
+                  "gender": "female",
+                  "index": 1,
+                  "pinNumber": "L",
+                  "radius": 12,
+                  "x": 400,
+                  "y": 140
+                },
+                {
+                  "gender": "female",
+                  "index": 2,
+                  "pinNumber": "PE",
+                  "radius": 12,
+                  "x": 400,
+                  "y": 110
+                },
+                {
+                  "gender": "female",
+                  "index": 3,
+                  "pinNumber": "V+",
+                  "radius": 12,
+                  "x": 260,
+                  "y": 170
+                },
+                {
+                  "gender": "female",
+                  "index": 4,
+                  "pinNumber": "V+",
+                  "radius": 12,
+                  "x": 260,
+                  "y": 140
+                },
+                {
+                  "gender": "female",
+                  "index": 5,
+                  "pinNumber": "V-",
+                  "radius": 12,
+                  "x": 260,
+                  "y": 50
+                },
+                {
+                  "gender": "female",
+                  "index": 6,
+                  "pinNumber": "V-",
+                  "radius": 12,
+                  "x": 260,
+                  "y": 80
+                },
+                {
+                  "gender": "female",
+                  "index": 7,
+                  "pinNumber": "V-",
+                  "radius": 12,
+                  "x": 260,
+                  "y": 110
+                }
+              ],
+              "pin_elements": {
+                "circles": [],
+                "femalePins": [],
+                "lines": [],
+                "malePins": [],
+                "paths": [],
+                "polygons": [],
+                "rectangles": [
+                  {
+                    "color": "#333333",
+                    "cornerRadius": 4,
+                    "fill": "#0b165e",
+                    "height": 180,
+                    "id": "el_thkqsf279",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 6,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 140,
+                    "x": 260,
+                    "y": 20
+                  },
+                  {
+                    "color": "#333333",
+                    "cornerRadius": 4,
+                    "fill": "#919191",
+                    "height": 160,
+                    "id": "el_h945wnsx8",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 20,
+                    "x": 260,
+                    "y": 30
+                  },
+                  {
+                    "color": "#333333",
+                    "cornerRadius": 4,
+                    "fill": "#919191",
+                    "height": 100,
+                    "id": "el_zu5q4nfg2",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 20,
+                    "x": 380,
+                    "y": 90
+                  }
+                ]
+              }
+            },
+            "version": "1.0"
+          },
+          "custom_svg": {
+            "mate_side": "<svg viewBox=\"183.33333333333331 -1.4210854715202004e-14 293.33333333333337 220.00000000000003\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"260\" y=\"20\" width=\"140\" height=\"180\" rx=\"4\" ry=\"4\" stroke=\"#333333\" stroke-width=\"6\" fill=\"#0b165e\"/><rect x=\"260\" y=\"30\" width=\"20\" height=\"160\" rx=\"4\" ry=\"4\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#919191\"/><rect x=\"380\" y=\"90\" width=\"20\" height=\"100\" rx=\"4\" ry=\"4\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#919191\"/><circle cx=\"400\" cy=\"170\" r=\"12\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"400\" y=\"174\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">N</text><circle cx=\"400\" cy=\"140\" r=\"12\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"400\" y=\"144\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">L</text><circle cx=\"400\" cy=\"110\" r=\"12\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"400\" y=\"114\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">PE</text><circle cx=\"260\" cy=\"170\" r=\"12\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"260\" y=\"174\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">V+</text><circle cx=\"260\" cy=\"140\" r=\"12\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"260\" y=\"144\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">V+</text><circle cx=\"260\" cy=\"50\" r=\"12\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"260\" y=\"54\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">V-</text><circle cx=\"260\" cy=\"80\" r=\"12\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"260\" y=\"84\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">V-</text><circle cx=\"260\" cy=\"110\" r=\"12\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"260\" y=\"114\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">V-</text></svg>",
+            "wire_side": "<svg viewBox=\"183.33333333333331 -1.4210854715202004e-14 293.33333333333337 220.00000000000003\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"400\" y=\"20\" width=\"140\" height=\"180\" rx=\"4\" ry=\"4\" stroke=\"#333333\" stroke-width=\"6\" fill=\"#0b165e\"/><rect x=\"520\" y=\"30\" width=\"20\" height=\"160\" rx=\"4\" ry=\"4\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#919191\"/><rect x=\"400\" y=\"90\" width=\"20\" height=\"100\" rx=\"4\" ry=\"4\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#919191\"/><circle cx=\"400\" cy=\"170\" r=\"12\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"400\" y=\"174\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">N</text><circle cx=\"400\" cy=\"140\" r=\"12\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"400\" y=\"144\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">L</text><circle cx=\"400\" cy=\"110\" r=\"12\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"400\" y=\"114\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">PE</text><circle cx=\"540\" cy=\"170\" r=\"12\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"540\" y=\"174\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">V+</text><circle cx=\"540\" cy=\"140\" r=\"12\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"540\" y=\"144\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">V+</text><circle cx=\"540\" cy=\"50\" r=\"12\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"540\" y=\"54\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">V-</text><circle cx=\"540\" cy=\"80\" r=\"12\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"540\" y=\"84\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">V-</text><circle cx=\"540\" cy=\"110\" r=\"12\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"540\" y=\"114\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">V-</text></svg>"
+          },
+          "fastening_type": "",
+          "features": [
+            "electronic_protection",
+            "status_indication"
+          ],
+          "insulation_material": "",
+          "is_approved": null,
+          "is_custom": true,
+          "is_public": true,
+          "keying_code": "",
+          "mounting_type": "din_rail",
+          "operating_temp_f": "",
+          "part_id": "6b56b64d-f0e2-44e0-b87c-330082a19b94",
+          "pin_mapping": {
+            "0": "N",
+            "1": "L",
+            "2": "PE",
+            "3": "V+",
+            "4": "V+",
+            "5": "V-",
+            "6": "V-",
+            "7": "V-"
+          },
+          "pitch_mm": null,
+          "positions": 8,
+          "row_spacing_mm": null,
+          "rows": null,
+          "series": "DIMENSION CP (240W)",
+          "shape": "other",
+          "wire_awg_max": null,
+          "wire_awg_min": null
+        }
+      },
+      "unit": "pcs"
+    },
+    "X1": {
+      "instance_id": "X1",
+      "part": {
+        "created_at": "2025-08-01T19:13:59.239461Z",
+        "datasheet_url": "https://www.te.com/usa-en/product-6609100-1.datasheet.pdf",
+        "description": "PWR ENT MOD RCPT IEC320-C14 PNL",
+        "id": "e1df01ae-e98a-4796-befb-d3d39bb9a0cb",
+        "img_url": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/835/PE0SSS000.jpg",
+        "kind": "connector",
+        "manufacturer": "TE Connectivity Corcom Filters",
+        "mpn": "PE0SSS000",
+        "part_id": "e1df01ae-e98a-4796-befb-d3d39bb9a0cb",
+        "spec": {
+          "bridged_positions": null,
+          "category": null,
+          "category_spec": null,
+          "color": "black",
+          "contact_gender": "female",
+          "contact_termination": "Quick Connect - 0.187\" (4.7mm)",
+          "created_by_user_id": "1744109a-8930-4871-aaa0-144b2af8493e",
+          "custom_properties": {
+            "editor_state": {
+              "mate_elements": {
+                "circles": [],
+                "femalePins": [],
+                "lines": [],
+                "malePins": [],
+                "paths": [],
+                "polygons": [],
+                "rectangles": [
+                  {
+                    "color": "#2a2a2a",
+                    "cornerRadius": 3,
+                    "fill": "#2a2a2a",
+                    "height": 35,
+                    "id": "c14_body",
+                    "layer": 0,
+                    "strokeColor": "#2a2a2a",
+                    "thickness": 3,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 50,
+                    "x": -25,
+                    "y": -20
+                  },
+                  {
+                    "color": "#404040",
+                    "cornerRadius": 2,
+                    "fill": "#404040",
+                    "height": 25,
+                    "id": "c14_inner",
+                    "layer": 1,
+                    "strokeColor": "#404040",
+                    "thickness": 2,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 40,
+                    "x": -20,
+                    "y": -15
+                  }
+                ]
+              },
+              "mate_pins": [
+                {
+                  "gender": "male",
+                  "index": 0,
+                  "pinNumber": "L",
+                  "radius": 6,
+                  "x": -12.5,
+                  "y": 2.5
+                },
+                {
+                  "gender": "male",
+                  "index": 1,
+                  "pinNumber": "N",
+                  "radius": 6,
+                  "x": 12.5,
+                  "y": 2.5
+                },
+                {
+                  "gender": "male",
+                  "index": 2,
+                  "pinNumber": "E",
+                  "radius": 6,
+                  "x": 0,
+                  "y": -7.5
+                }
+              ],
+              "pin_elements": {
+                "circles": [],
+                "femalePins": [],
+                "lines": [],
+                "malePins": [],
+                "paths": [],
+                "polygons": [],
+                "rectangles": [
+                  {
+                    "color": "#2a2a2a",
+                    "cornerRadius": 3,
+                    "fill": "#2a2a2a",
+                    "height": 35,
+                    "id": "c14_body",
+                    "layer": 0,
+                    "strokeColor": "#2a2a2a",
+                    "thickness": 3,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 50,
+                    "x": -25,
+                    "y": -20
+                  },
+                  {
+                    "color": "#404040",
+                    "cornerRadius": 2,
+                    "fill": "#404040",
+                    "height": 25,
+                    "id": "c14_inner",
+                    "layer": 1,
+                    "strokeColor": "#404040",
+                    "thickness": 2,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 40,
+                    "x": -20,
+                    "y": -15
+                  }
+                ]
+              }
+            },
+            "version": "1.0"
+          },
+          "custom_svg": {
+            "mate_side": "<svg viewBox=\"-100 -77.5 200 150\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"-25\" y=\"-20\" width=\"50\" height=\"35\" rx=\"3\" ry=\"3\" stroke=\"#2a2a2a\" stroke-width=\"3\" fill=\"#2a2a2a\"/><rect x=\"-20\" y=\"-15\" width=\"40\" height=\"25\" rx=\"2\" ry=\"2\" stroke=\"#404040\" stroke-width=\"2\" fill=\"#404040\"/><circle cx=\"-12.5\" cy=\"2.5\" r=\"6\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-12.5\" y=\"6.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">L</text><circle cx=\"12.5\" cy=\"2.5\" r=\"6\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"12.5\" y=\"6.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">N</text><circle cx=\"0\" cy=\"-7.5\" r=\"6\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"0\" y=\"-3.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">E</text></svg>",
+            "wire_side": "<svg viewBox=\"-100 -77.5 200 150\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"775\" y=\"-20\" width=\"50\" height=\"35\" rx=\"3\" ry=\"3\" stroke=\"#2a2a2a\" stroke-width=\"3\" fill=\"#2a2a2a\"/><rect x=\"780\" y=\"-15\" width=\"40\" height=\"25\" rx=\"2\" ry=\"2\" stroke=\"#404040\" stroke-width=\"2\" fill=\"#404040\"/><circle cx=\"812.5\" cy=\"2.5\" r=\"6\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"812.5\" y=\"6.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">L</text><circle cx=\"787.5\" cy=\"2.5\" r=\"6\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"787.5\" y=\"6.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">N</text><circle cx=\"800\" cy=\"-7.5\" r=\"6\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"800\" y=\"-3.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">E</text></svg>"
+          },
+          "fastening_type": "snap_fit",
+          "features": [
+            "Conversion Clip",
+            "Voltage Selector"
+          ],
+          "insulation_material": "thermoplastic",
+          "is_approved": null,
+          "is_custom": true,
+          "is_public": true,
+          "keying_code": "",
+          "mounting_type": "Panel Mount, Flange",
+          "operating_temp_f": "-25 to 70",
+          "part_id": "e1df01ae-e98a-4796-befb-d3d39bb9a0cb",
+          "pin_mapping": {
+            "0": "L",
+            "1": "N",
+            "2": "E"
+          },
+          "pitch_mm": null,
+          "positions": 3,
+          "row_spacing_mm": null,
+          "rows": 1,
+          "series": "P, Chameleon, Corcom",
+          "shape": "rectangular",
+          "wire_awg_max": 18,
+          "wire_awg_min": 14
+        }
+      },
+      "unit": "pcs"
+    },
+    "CB1": {
+      "instance_id": "CB1",
+      "part": {
+        "created_at": "2025-08-01T19:08:28.361365Z",
+        "datasheet_url": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6705/3644_en_D.pdf",
+        "description": "CIR BRKR THRMMAG 8A 277VAC 60VDC",
+        "id": "0de72c9b-bd54-4fb7-8ea4-863ae4f650ca",
+        "img_url": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/512/MFG_1-Pole.jpg",
+        "kind": "connector",
+        "manufacturer": "Phoenix Contact",
+        "mpn": "2907565",
+        "part_id": "0de72c9b-bd54-4fb7-8ea4-863ae4f650ca",
+        "spec": {
+          "bridged_positions": null,
+          "category": "circuit_breaker",
+          "category_spec": {
+            "actuator_type": "Lever",
+            "breaker_type": "Thermal Magnetic",
+            "current_rating": 8,
+            "interrupt_rating": "",
+            "mounting_type": "DIN Rail",
+            "operating_temperature": "",
+            "poles": 1,
+            "voltage_rating_ac": 277,
+            "voltage_rating_dc": 60
+          },
+          "color": "gray",
+          "contact_gender": "female",
+          "contact_termination": "screw_terminal",
+          "created_by_user_id": "1744109a-8930-4871-aaa0-144b2af8493e",
+          "custom_properties": {
+            "editor_state": {
+              "mate_elements": {
+                "circles": [],
+                "femalePins": [],
+                "lines": [],
+                "malePins": [],
+                "paths": [],
+                "polygons": [
+                  {
+                    "closed": true,
+                    "color": "#333333",
+                    "cornerRadius": 4,
+                    "fill": "#757575",
+                    "id": "el_cb_body",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "points": [
+                      {
+                        "x": 120,
+                        "y": 190
+                      },
+                      {
+                        "x": 120,
+                        "y": 150
+                      },
+                      {
+                        "x": 120,
+                        "y": 125
+                      },
+                      {
+                        "x": 130,
+                        "y": 125
+                      },
+                      {
+                        "x": 150,
+                        "y": 125
+                      },
+                      {
+                        "x": 155,
+                        "y": 100
+                      },
+                      {
+                        "x": 190,
+                        "y": 100
+                      },
+                      {
+                        "x": 200,
+                        "y": 100
+                      },
+                      {
+                        "x": 230,
+                        "y": 100
+                      },
+                      {
+                        "x": 240,
+                        "y": 100
+                      },
+                      {
+                        "x": 275,
+                        "y": 100
+                      },
+                      {
+                        "x": 275,
+                        "y": 125
+                      },
+                      {
+                        "x": 295,
+                        "y": 125
+                      },
+                      {
+                        "x": 300,
+                        "y": 125
+                      },
+                      {
+                        "x": 300,
+                        "y": 150
+                      },
+                      {
+                        "x": 300,
+                        "y": 190
+                      },
+                      {
+                        "x": 250,
+                        "y": 200
+                      },
+                      {
+                        "x": 250,
+                        "y": 190
+                      },
+                      {
+                        "x": 175,
+                        "y": 190
+                      },
+                      {
+                        "x": 175,
+                        "y": 200
+                      }
+                    ],
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "polygon",
+                    "visible": true
+                  }
+                ],
+                "rectangles": [
+                  {
+                    "color": "#E07C2B",
+                    "cornerRadius": 2,
+                    "fill": "#E07C2B",
+                    "height": 7.5,
+                    "id": "el_vtjapea35",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#E07C2B",
+                    "thickness": 2,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 35,
+                    "x": 195,
+                    "y": 92.5
+                  }
+                ]
+              },
+              "mate_pins": [
+                {
+                  "gender": "female",
+                  "index": 0,
+                  "pinNumber": "IN+",
+                  "radius": 14,
+                  "x": 145,
+                  "y": 125
+                },
+                {
+                  "gender": "female",
+                  "index": 1,
+                  "pinNumber": "OUT+",
+                  "radius": 14,
+                  "x": 280,
+                  "y": 125
+                }
+              ],
+              "pin_elements": {
+                "circles": [],
+                "femalePins": [],
+                "lines": [],
+                "malePins": [],
+                "paths": [],
+                "polygons": [
+                  {
+                    "closed": true,
+                    "color": "#333333",
+                    "cornerRadius": 4,
+                    "fill": "#757575",
+                    "id": "el_cb_body",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "points": [
+                      {
+                        "x": 120,
+                        "y": 190
+                      },
+                      {
+                        "x": 120,
+                        "y": 150
+                      },
+                      {
+                        "x": 120,
+                        "y": 125
+                      },
+                      {
+                        "x": 130,
+                        "y": 125
+                      },
+                      {
+                        "x": 150,
+                        "y": 125
+                      },
+                      {
+                        "x": 155,
+                        "y": 100
+                      },
+                      {
+                        "x": 190,
+                        "y": 100
+                      },
+                      {
+                        "x": 200,
+                        "y": 100
+                      },
+                      {
+                        "x": 230,
+                        "y": 100
+                      },
+                      {
+                        "x": 240,
+                        "y": 100
+                      },
+                      {
+                        "x": 275,
+                        "y": 100
+                      },
+                      {
+                        "x": 275,
+                        "y": 125
+                      },
+                      {
+                        "x": 295,
+                        "y": 125
+                      },
+                      {
+                        "x": 300,
+                        "y": 125
+                      },
+                      {
+                        "x": 300,
+                        "y": 150
+                      },
+                      {
+                        "x": 300,
+                        "y": 190
+                      },
+                      {
+                        "x": 250,
+                        "y": 200
+                      },
+                      {
+                        "x": 250,
+                        "y": 190
+                      },
+                      {
+                        "x": 175,
+                        "y": 190
+                      },
+                      {
+                        "x": 175,
+                        "y": 200
+                      }
+                    ],
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "polygon",
+                    "visible": true
+                  }
+                ],
+                "rectangles": [
+                  {
+                    "color": "#E07C2B",
+                    "cornerRadius": 2,
+                    "fill": "#E07C2B",
+                    "height": 7.5,
+                    "id": "el_vtjapea35",
+                    "layer": 1,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#E07C2B",
+                    "thickness": 2,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 35,
+                    "x": 195,
+                    "y": 92.5
+                  }
+                ]
+              }
+            },
+            "version": "1.0"
+          },
+          "custom_svg": {
+            "mate_side": "<svg viewBox=\"100 63.75 220 165\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 123.93547964039963 190.71554175279994 Q 120 190 120 186 L 120 154 Q 120 150 120 146 L 120 128.33333333333334 Q 120 125 123.33333333333333 125 L 126.66666666666667 125 Q 130 125 133.33333333333334 125 L 146 125 Q 150 125 150.78446454055273 121.07767729723632 L 154.21553545944727 103.92232270276368 Q 155 100 159 100 L 186.66666666666666 100 Q 190 100 193.33333333333334 100 L 196.66666666666666 100 Q 200 100 203.33333333333334 100 L 226.66666666666666 100 Q 230 100 233.33333333333334 100 L 236.66666666666666 100 Q 240 100 243.33333333333334 100 L 271 100 Q 275 100 275 104 L 275 121 Q 275 125 279 125 L 293.3333333333333 125 Q 295 125 296.6666666666667 125 L 298.3333333333333 125 Q 300 125 300 126.66666666666667 L 300 146 Q 300 150 300 154 L 300 186 Q 300 190 296.07767729723633 190.78446454055273 L 253.26860225230305 199.3462795495394 Q 250 200 250 196.66666666666666 L 250 193.33333333333334 Q 250 190 246.66666666666666 190 L 178.33333333333334 190 Q 175 190 175 193.33333333333334 L 175 196.66666666666666 Q 175 200 171.7204336330003 199.40371520600004 Z\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#757575\" data-type=\"polygon\" data-corner-radius=\"4\" data-original-points='[{\"x\":120,\"y\":190},{\"x\":120,\"y\":150},{\"x\":120,\"y\":125},{\"x\":130,\"y\":125},{\"x\":150,\"y\":125},{\"x\":155,\"y\":100},{\"x\":190,\"y\":100},{\"x\":200,\"y\":100},{\"x\":230,\"y\":100},{\"x\":240,\"y\":100},{\"x\":275,\"y\":100},{\"x\":275,\"y\":125},{\"x\":295,\"y\":125},{\"x\":300,\"y\":125},{\"x\":300,\"y\":150},{\"x\":300,\"y\":190},{\"x\":250,\"y\":200},{\"x\":250,\"y\":190},{\"x\":175,\"y\":190},{\"x\":175,\"y\":200}]'/><rect x=\"195\" y=\"92.5\" width=\"35\" height=\"7.5\" rx=\"2\" ry=\"2\" stroke=\"#E07C2B\" stroke-width=\"2\" fill=\"#E07C2B\"/><circle cx=\"145\" cy=\"125\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"145\" y=\"129\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">IN+</text><circle cx=\"280\" cy=\"125\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"280\" y=\"129\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">OUT+</text></svg>",
+            "wire_side": "<svg viewBox=\"100 63.75 220 165\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 676.0645203596004 190.71554175279994 Q 680 190 680 186 L 680 154 Q 680 150 680 146 L 680 128.33333333333334 Q 680 125 676.6666666666666 125 L 673.3333333333334 125 Q 670 125 666.6666666666666 125 L 654 125 Q 650 125 649.2155354594472 121.07767729723632 L 645.7844645405528 103.92232270276368 Q 645 100 641 100 L 613.3333333333334 100 Q 610 100 606.6666666666666 100 L 603.3333333333334 100 Q 600 100 596.6666666666666 100 L 573.3333333333334 100 Q 570 100 566.6666666666666 100 L 563.3333333333334 100 Q 560 100 556.6666666666666 100 L 529 100 Q 525 100 525 104 L 525 121 Q 525 125 521 125 L 506.6666666666667 125 Q 505 125 503.3333333333333 125 L 501.6666666666667 125 Q 500 125 500 126.66666666666667 L 500 146 Q 500 150 500 154 L 500 186 Q 500 190 503.92232270276367 190.78446454055273 L 546.731397747697 199.3462795495394 Q 550 200 550 196.66666666666666 L 550 193.33333333333334 Q 550 190 553.3333333333334 190 L 621.6666666666666 190 Q 625 190 625 193.33333333333334 L 625 196.66666666666666 Q 625 200 628.2795663669997 199.40371520600004 Z\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#757575\" data-type=\"polygon\" data-corner-radius=\"4\" data-original-points='[{\"x\":680,\"y\":190},{\"x\":680,\"y\":150},{\"x\":680,\"y\":125},{\"x\":670,\"y\":125},{\"x\":650,\"y\":125},{\"x\":645,\"y\":100},{\"x\":610,\"y\":100},{\"x\":600,\"y\":100},{\"x\":570,\"y\":100},{\"x\":560,\"y\":100},{\"x\":525,\"y\":100},{\"x\":525,\"y\":125},{\"x\":505,\"y\":125},{\"x\":500,\"y\":125},{\"x\":500,\"y\":150},{\"x\":500,\"y\":190},{\"x\":550,\"y\":200},{\"x\":550,\"y\":190},{\"x\":625,\"y\":190},{\"x\":625,\"y\":200}]'/><rect x=\"570\" y=\"92.5\" width=\"35\" height=\"7.5\" rx=\"2\" ry=\"2\" stroke=\"#E07C2B\" stroke-width=\"2\" fill=\"#E07C2B\"/><circle cx=\"655\" cy=\"125\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"655\" y=\"129\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">IN+</text><circle cx=\"520\" cy=\"125\" r=\"14\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"520\" y=\"129\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">OUT+</text></svg>"
+          },
+          "fastening_type": "",
+          "features": [
+            "status_indication",
+            "Current: 8A"
+          ],
+          "insulation_material": "",
+          "is_approved": null,
+          "is_custom": true,
+          "is_public": true,
+          "keying_code": "",
+          "mounting_type": "DIN Rail",
+          "operating_temp_f": "",
+          "part_id": "0de72c9b-bd54-4fb7-8ea4-863ae4f650ca",
+          "pin_mapping": {
+            "0": "IN+",
+            "1": "OUT+"
+          },
+          "pitch_mm": null,
+          "positions": 2,
+          "row_spacing_mm": null,
+          "rows": null,
+          "series": "TMC 8",
+          "shape": "other",
+          "wire_awg_max": null,
+          "wire_awg_min": null
+        }
+      },
+      "unit": "pcs"
+    },
+    "X3": {
+      "instance_id": "X3",
+      "part": {
+        "created_at": "2025-07-11T20:23:15.358606Z",
+        "datasheet_url": "http://www.phoenixcontact.com/us/products/1047479/pdf",
+        "description": "TERM BLK 7POS BLUE",
+        "id": "1f8cde3e-9691-456d-9274-c92871299e35",
+        "img_url": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5792/MFG_1047479.jpg",
+        "kind": "connector",
+        "manufacturer": "Phoenix Contact",
+        "mpn": "1047479",
+        "part_id": "1f8cde3e-9691-456d-9274-c92871299e35",
+        "spec": {
+          "bridged_positions": [
+            [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          ],
+          "category": null,
+          "category_spec": null,
+          "color": "Blue",
+          "contact_gender": "none",
+          "contact_termination": "Push In, Spring",
+          "created_by_user_id": null,
+          "fastening_type": null,
+          "features": [],
+          "insulation_material": null,
+          "is_approved": null,
+          "is_custom": false,
+          "is_public": false,
+          "keying_code": null,
+          "mounting_type": "Direct Mount",
+          "operating_temp_f": null,
+          "part_id": "1f8cde3e-9691-456d-9274-c92871299e35",
+          "pitch_mm": null,
+          "positions": 7,
+          "row_spacing_mm": null,
+          "rows": 2,
+          "series": "PTFIX",
+          "shape": "terminal_block",
+          "wire_awg_max": 26,
+          "wire_awg_min": 12
+        }
+      },
+      "unit": "pcs"
+    },
+    "W6": {
+      "instance_id": "W6",
+      "part": {
+        "created_at": "2025-06-14T19:20:40.369329Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/GPTMUL1426HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 14AWG 60V BLUE 25'",
+        "id": "4410563d-f6d6-4b81-bf2a-5f689f502bf1",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/418/MFG_14STRBLUUL142625.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "14STRBLUUL14",
+        "part_id": "4410563d-f6d6-4b81-bf2a-5f689f502bf1",
+        "spec": {
+          "awg": 14,
+          "color": "blue",
+          "conductor_type": "stranded",
+          "part_id": "4410563d-f6d6-4b81-bf2a-5f689f502bf1",
+          "stranding": "19/27",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "W3": {
+      "instance_id": "W3",
+      "part": {
+        "created_at": "2025-06-14T19:20:40.369329Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/GPTMUL1426HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 14AWG 60V BLK 25'",
+        "id": "493584ce-2dc0-4694-a89c-ccfb819124f0",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/418/MFG_14STRBLAUL142625.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "14STRBLAUL14",
+        "part_id": "493584ce-2dc0-4694-a89c-ccfb819124f0",
+        "spec": {
+          "awg": 14,
+          "color": "black",
+          "conductor_type": "stranded",
+          "part_id": "493584ce-2dc0-4694-a89c-ccfb819124f0",
+          "stranding": "19/27",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    }
+  },
+  "data": {
+    "mapping": {
+      "W8": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "X3",
+          "pin": 3,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 740,
+                "y": 52
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "end2": {
+          "type": "connector_pin",
+          "connector_instance": "CB3",
+          "pin": 1,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 890,
+                "y": 52
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "label": null,
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 300,
+        "twisted_pair_id": null
+      },
+      "W2": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "PS1",
+          "pin": 6,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 220,
+                "y": 52
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "end2": {
+          "type": "connector_pin",
+          "connector_instance": "X2",
+          "pin": 1,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 360,
+                "y": 52
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "label": null,
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 100,
+        "twisted_pair_id": null
+      },
+      "W6": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "CB1",
+          "pin": 2,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 490,
+                "y": 52
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "end2": {
+          "type": "connector_pin",
+          "connector_instance": "X3",
+          "pin": 1,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 640,
+                "y": 52
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "label": null,
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 100,
+        "twisted_pair_id": null
+      },
+      "W4": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "X2",
+          "pin": 3,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "manual",
+            "waypoints": [
+              {
+                "x": 940,
+                "y": 580
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "end2": {
+          "type": "connector_pin",
+          "connector_instance": "CB3",
+          "pin": 2,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "manual",
+            "waypoints": [
+              {
+                "x": 1400,
+                "y": 560
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "label": null,
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 300,
+        "twisted_pair_id": null
+      },
+      "W7": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "X3",
+          "pin": 2,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 740,
+                "y": 52
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "end2": {
+          "type": "connector_pin",
+          "connector_instance": "CB2",
+          "pin": 1,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 890,
+                "y": 52
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "label": null,
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 300,
+        "twisted_pair_id": null
+      },
+      "W3": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "CB2",
+          "pin": 3,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "manual",
+            "waypoints": [
+              {
+                "x": 1380,
+                "y": 420
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "end2": {
+          "type": "connector_pin",
+          "connector_instance": "X2",
+          "pin": 2,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "manual",
+            "waypoints": [
+              {
+                "x": 960,
+                "y": 500
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "label": null,
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 300,
+        "twisted_pair_id": null
+      },
+      "W10": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "X1",
+          "pin": 3,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": -278,
+                "y": 92
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "end2": {
+          "type": "connector_pin",
+          "connector_instance": "PS1",
+          "pin": 3,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": -22,
+                "y": 92
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "label": null,
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 200,
+        "twisted_pair_id": null
+      },
+      "W5": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "PS1",
+          "pin": 4,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 220,
+                "y": 52
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "end2": {
+          "type": "connector_pin",
+          "connector_instance": "CB1",
+          "pin": 1,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 390,
+                "y": 52
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "label": null,
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 100,
+        "twisted_pair_id": null
+      },
+      "W1": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "X1",
+          "pin": 1,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": -160,
+                "y": 52
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "end2": {
+          "type": "connector_pin",
+          "connector_instance": "PS1",
+          "pin": 2,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 10,
+                "y": 52
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "label": null,
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 200,
+        "twisted_pair_id": null
+      },
+      "W9": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "X1",
+          "pin": 2,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": -284,
+                "y": 72
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "end2": {
+          "type": "connector_pin",
+          "connector_instance": "PS1",
+          "pin": 1,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": -16,
+                "y": 72
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "label": null,
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 200,
+        "twisted_pair_id": null
+      }
+    },
+    "connector_positions": {
+      "X3": {
+        "x": 1080,
+        "y": 140
+      },
+      "PS1": {
+        "x": 20,
+        "y": 40
+      },
+      "CB1": {
+        "x": 560,
+        "y": 40
+      },
+      "X1": {
+        "x": -560,
+        "y": 200
+      },
+      "X2": {
+        "x": 560,
+        "y": 380
+      },
+      "CB3": {
+        "x": 1600,
+        "y": 380
+      },
+      "CB2": {
+        "x": 1600,
+        "y": 40
+      }
+    },
+    "wire_anchors": {
+      "X3": {
+        "x": 0,
+        "y": 0
+      },
+      "CB3": {
+        "x": 0,
+        "y": 0
+      },
+      "PS1": {
+        "x": 0,
+        "y": 0
+      },
+      "PS1|X2": {
+        "x": 280,
+        "y": 440
+      },
+      "CB3|X2": {
+        "x": 1120,
+        "y": 560
+      },
+      "PS1|X1": {
+        "x": -280,
+        "y": 0
+      },
+      "CB1|PS1": {
+        "x": 280,
+        "y": 0
+      },
+      "CB1": {
+        "x": 0,
+        "y": 0
+      },
+      "CB3|X3": {
+        "x": 1340,
+        "y": 340
+      },
+      "X2": {
+        "x": 0,
+        "y": 0
+      },
+      "CB2": {
+        "x": 0,
+        "y": 0
+      },
+      "CB2|X2": {
+        "x": 1120,
+        "y": 480
+      },
+      "X1": {
+        "x": 0,
+        "y": 0
+      },
+      "CB1|X3": {
+        "x": 800,
+        "y": 60
+      },
+      "CB2|X3": {
+        "x": 1340,
+        "y": 40
+      }
+    },
+    "cable_positions": {},
+    "design_notes": [],
+    "name": "Power Distribution",
+    "description": null,
+    "notes": null
+  },
+  "harness_id": "current",
+  "revision_id": "96cc2496-d72c-4302-bbf8-828fe9712b9b"
+}

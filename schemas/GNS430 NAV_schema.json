@@ -1,0 +1,2271 @@
+{
+  "bom": {
+    "W9": {
+      "instance_id": "W9",
+      "part": {
+        "created_at": "2025-06-14T19:20:39.744948Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/UL1007HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 24AWG 300V GRN 25'",
+        "id": "e92247fd-9e45-4b91-be7b-3bac717a53ff",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/420/MFG_24UL1007STRGRE25.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "24UL1007STRGRE",
+        "part_id": "e92247fd-9e45-4b91-be7b-3bac717a53ff",
+        "spec": {
+          "awg": 24,
+          "color": "green",
+          "conductor_type": "stranded",
+          "part_id": "e92247fd-9e45-4b91-be7b-3bac717a53ff",
+          "stranding": "7/32",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "W2": {
+      "instance_id": "W2",
+      "part": {
+        "created_at": "2025-06-14T19:20:39.744948Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/UL1007HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 24AWG BLU 500'",
+        "id": "b8965b49-1e0c-4100-91fe-7256b7b1cb46",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/420/MFG_24UL1007STRBLU500.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "24UL1007STRBLU",
+        "part_id": "b8965b49-1e0c-4100-91fe-7256b7b1cb46",
+        "spec": {
+          "awg": 24,
+          "color": "blue",
+          "conductor_type": "stranded",
+          "part_id": "b8965b49-1e0c-4100-91fe-7256b7b1cb46",
+          "stranding": "7/32",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "W4": {
+      "instance_id": "W4",
+      "part": {
+        "created_at": "2025-06-14T19:20:39.744948Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/UL1007HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 24AWG 300V GRN 25'",
+        "id": "e92247fd-9e45-4b91-be7b-3bac717a53ff",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/420/MFG_24UL1007STRGRE25.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "24UL1007STRGRE",
+        "part_id": "e92247fd-9e45-4b91-be7b-3bac717a53ff",
+        "spec": {
+          "awg": 24,
+          "color": "green",
+          "conductor_type": "stranded",
+          "part_id": "e92247fd-9e45-4b91-be7b-3bac717a53ff",
+          "stranding": "7/32",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "X3": {
+      "instance_id": "X3",
+      "part": {
+        "created_at": "2025-06-14T19:20:37.128892Z",
+        "datasheet_url": "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773963-5_AMPLIMITE_Cable_Conn_QRG&DocType=Data+Sheet&DocLang=English&DocFormat=pdf&PartCntxt=5-747912-2",
+        "description": "CONN D-SUB PLUG 25POS SOLDER CUP",
+        "id": "deda931d-03f3-431e-bd91-1b77c456fb9f",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/1037/5-747912-2.JPG",
+        "kind": "connector",
+        "manufacturer": "TE Connectivity AMP Connectors",
+        "mpn": "5-747912-2",
+        "part_id": "deda931d-03f3-431e-bd91-1b77c456fb9f",
+        "spec": {
+          "bridged_positions": null,
+          "category": null,
+          "category_spec": null,
+          "color": null,
+          "contact_gender": "male",
+          "contact_termination": "Solder Cup",
+          "created_by_user_id": null,
+          "fastening_type": null,
+          "features": [
+            "Grounding Indents"
+          ],
+          "insulation_material": null,
+          "is_approved": null,
+          "is_custom": false,
+          "is_public": false,
+          "keying_code": null,
+          "mounting_type": "Free Hanging (In-Line)",
+          "operating_temp_f": null,
+          "part_id": "deda931d-03f3-431e-bd91-1b77c456fb9f",
+          "pitch_mm": null,
+          "positions": 25,
+          "row_spacing_mm": null,
+          "rows": 2,
+          "series": "AMPLIMITE HD-20",
+          "shape": "dsub",
+          "wire_awg_max": 26,
+          "wire_awg_min": 20
+        }
+      },
+      "unit": "pcs"
+    },
+    "W6": {
+      "instance_id": "W6",
+      "part": {
+        "created_at": "2025-06-14T19:20:39.744948Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/UL1007HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 24AWG BLU 500'",
+        "id": "b8965b49-1e0c-4100-91fe-7256b7b1cb46",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/420/MFG_24UL1007STRBLU500.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "24UL1007STRBLU",
+        "part_id": "b8965b49-1e0c-4100-91fe-7256b7b1cb46",
+        "spec": {
+          "awg": 24,
+          "color": "blue",
+          "conductor_type": "stranded",
+          "part_id": "b8965b49-1e0c-4100-91fe-7256b7b1cb46",
+          "stranding": "7/32",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "X2": {
+      "instance_id": "X2",
+      "part": {
+        "created_at": "2025-08-07T12:22:54.856450Z",
+        "datasheet_url": "https://www.te.com/usa-en/product-204517-2.datasheet.pdf",
+        "description": "CONN D-SUB HD PLUG 44POS PNL MNT",
+        "id": "fa20e1a0-2489-4a0f-bb68-0c80da2a4ba7",
+        "img_url": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1062/204517-2.JPG",
+        "kind": "connector",
+        "manufacturer": "TE Connectivity Aerospace, Defense and Marine",
+        "mpn": "204517-2",
+        "part_id": "fa20e1a0-2489-4a0f-bb68-0c80da2a4ba7",
+        "spec": {
+          "bridged_positions": null,
+          "category": null,
+          "category_spec": null,
+          "color": "metal",
+          "contact_gender": "male",
+          "contact_termination": "Crimp",
+          "created_by_user_id": "1744109a-8930-4871-aaa0-144b2af8493e",
+          "custom_properties": {
+            "editor_state": {
+              "mate_elements": {
+                "circles": [
+                  {
+                    "color": "#333333",
+                    "cx": -150.75,
+                    "cy": -15,
+                    "fill": "#ffffff",
+                    "id": "el_db44_screw1",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 5.5901699437494745,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 1,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 144.25,
+                    "cy": -15,
+                    "fill": "#ffffff",
+                    "id": "el_db44_screw2",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 5.5901699437494745,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 1,
+                    "type": "circle",
+                    "visible": true
+                  }
+                ],
+                "femalePins": [],
+                "lines": [],
+                "malePins": [],
+                "paths": [],
+                "polygons": [
+                  {
+                    "closed": true,
+                    "color": "#333333",
+                    "cornerRadius": 8,
+                    "fill": "#ffffff",
+                    "id": "el_db44_inner",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "points": [
+                      {
+                        "x": -145.75,
+                        "y": -47.5
+                      },
+                      {
+                        "x": 139.25,
+                        "y": -47.5
+                      },
+                      {
+                        "x": 126.75,
+                        "y": 15
+                      },
+                      {
+                        "x": -133.25,
+                        "y": 15
+                      }
+                    ],
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "polygon",
+                    "visible": true
+                  }
+                ],
+                "rectangles": [
+                  {
+                    "color": "#333333",
+                    "cornerRadius": 2,
+                    "fill": "#707070",
+                    "height": 72.5,
+                    "id": "el_db44_body",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 1,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 317.5,
+                    "x": -163.25,
+                    "y": -52.5
+                  }
+                ]
+              },
+              "mate_pins": [
+                {
+                  "gender": "male",
+                  "index": 0,
+                  "pinNumber": "1",
+                  "radius": 5,
+                  "x": -105,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 1,
+                  "pinNumber": "2",
+                  "radius": 5,
+                  "x": -90,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 2,
+                  "pinNumber": "3",
+                  "radius": 5,
+                  "x": -75,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 3,
+                  "pinNumber": "4",
+                  "radius": 5,
+                  "x": -60,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 4,
+                  "pinNumber": "5",
+                  "radius": 5,
+                  "x": -45,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 5,
+                  "pinNumber": "6",
+                  "radius": 5,
+                  "x": -30,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 6,
+                  "pinNumber": "7",
+                  "radius": 5,
+                  "x": -15,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 7,
+                  "pinNumber": "8",
+                  "radius": 5,
+                  "x": 0,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 8,
+                  "pinNumber": "9",
+                  "radius": 5,
+                  "x": 15,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 9,
+                  "pinNumber": "10",
+                  "radius": 5,
+                  "x": 30,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 10,
+                  "pinNumber": "11",
+                  "radius": 5,
+                  "x": 45,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 11,
+                  "pinNumber": "12",
+                  "radius": 5,
+                  "x": 60,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 12,
+                  "pinNumber": "13",
+                  "radius": 5,
+                  "x": 75,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 13,
+                  "pinNumber": "14",
+                  "radius": 5,
+                  "x": 90,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 14,
+                  "pinNumber": "15",
+                  "radius": 5,
+                  "x": 105,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 15,
+                  "pinNumber": "16",
+                  "radius": 5,
+                  "x": -112.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 16,
+                  "pinNumber": "17",
+                  "radius": 5,
+                  "x": -97.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 17,
+                  "pinNumber": "18",
+                  "radius": 5,
+                  "x": -82.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 18,
+                  "pinNumber": "19",
+                  "radius": 5,
+                  "x": -67.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 19,
+                  "pinNumber": "20",
+                  "radius": 5,
+                  "x": -52.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 20,
+                  "pinNumber": "21",
+                  "radius": 5,
+                  "x": -37.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 21,
+                  "pinNumber": "22",
+                  "radius": 5,
+                  "x": -22.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 22,
+                  "pinNumber": "23",
+                  "radius": 5,
+                  "x": -7.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 23,
+                  "pinNumber": "24",
+                  "radius": 5,
+                  "x": 7.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 24,
+                  "pinNumber": "25",
+                  "radius": 5,
+                  "x": 22.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 25,
+                  "pinNumber": "26",
+                  "radius": 5,
+                  "x": 37.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 26,
+                  "pinNumber": "27",
+                  "radius": 5,
+                  "x": 52.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 27,
+                  "pinNumber": "28",
+                  "radius": 5,
+                  "x": 67.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 28,
+                  "pinNumber": "29",
+                  "radius": 5,
+                  "x": 82.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 29,
+                  "pinNumber": "30",
+                  "radius": 5,
+                  "x": 97.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 30,
+                  "pinNumber": "31",
+                  "radius": 5,
+                  "x": -105,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 31,
+                  "pinNumber": "32",
+                  "radius": 5,
+                  "x": -90,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 32,
+                  "pinNumber": "33",
+                  "radius": 5,
+                  "x": -75,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 33,
+                  "pinNumber": "34",
+                  "radius": 5,
+                  "x": -60,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 34,
+                  "pinNumber": "35",
+                  "radius": 5,
+                  "x": -45,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 35,
+                  "pinNumber": "36",
+                  "radius": 5,
+                  "x": -30,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 36,
+                  "pinNumber": "37",
+                  "radius": 5,
+                  "x": -15,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 37,
+                  "pinNumber": "38",
+                  "radius": 5,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 38,
+                  "pinNumber": "39",
+                  "radius": 5,
+                  "x": 15,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 39,
+                  "pinNumber": "40",
+                  "radius": 5,
+                  "x": 30,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 40,
+                  "pinNumber": "41",
+                  "radius": 5,
+                  "x": 45,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 41,
+                  "pinNumber": "42",
+                  "radius": 5,
+                  "x": 60,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 42,
+                  "pinNumber": "43",
+                  "radius": 5,
+                  "x": 75,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 43,
+                  "pinNumber": "44",
+                  "radius": 5,
+                  "x": 90,
+                  "y": 0
+                }
+              ],
+              "pin_elements": {
+                "circles": [
+                  {
+                    "color": "#333333",
+                    "cx": -150.75,
+                    "cy": -15,
+                    "fill": "#ffffff",
+                    "id": "el_db44_screw1",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 5.5901699437494745,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 1,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 144.25,
+                    "cy": -15,
+                    "fill": "#ffffff",
+                    "id": "el_db44_screw2",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 5.5901699437494745,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 1,
+                    "type": "circle",
+                    "visible": true
+                  }
+                ],
+                "femalePins": [],
+                "lines": [],
+                "malePins": [],
+                "paths": [],
+                "polygons": [
+                  {
+                    "closed": true,
+                    "color": "#333333",
+                    "cornerRadius": 8,
+                    "fill": "#ffffff",
+                    "id": "el_db44_inner",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "points": [
+                      {
+                        "x": -145.75,
+                        "y": -47.5
+                      },
+                      {
+                        "x": 139.25,
+                        "y": -47.5
+                      },
+                      {
+                        "x": 126.75,
+                        "y": 15
+                      },
+                      {
+                        "x": -133.25,
+                        "y": 15
+                      }
+                    ],
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "polygon",
+                    "visible": true
+                  }
+                ],
+                "rectangles": [
+                  {
+                    "color": "#333333",
+                    "cornerRadius": 2,
+                    "fill": "#707070",
+                    "height": 72.5,
+                    "id": "el_db44_body",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 1,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 317.5,
+                    "x": -163.25,
+                    "y": -52.5
+                  }
+                ]
+              }
+            },
+            "version": "1.0"
+          },
+          "custom_svg": {
+            "mate_side": "<svg viewBox=\"-183.25 -150.3125 357.5 268.125\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"-163.25\" y=\"-52.5\" width=\"317.5\" height=\"72.5\" rx=\"2\" ry=\"2\" stroke=\"#333333\" stroke-width=\"1\" fill=\"#707070\"/><circle cx=\"-150.75\" cy=\"-15\" r=\"5.5901699437494745\" stroke=\"#333333\" stroke-width=\"1\" fill=\"#ffffff\"/><circle cx=\"144.25\" cy=\"-15\" r=\"5.5901699437494745\" stroke=\"#333333\" stroke-width=\"1\" fill=\"#ffffff\"/><path d=\"M -144.18107091889453 -39.65535459447264 Q -145.75 -47.5 -137.75 -47.5 L 131.25 -47.5 Q 139.25 -47.5 137.68107091889453 -39.65535459447264 L 128.31892908110547 7.155354594472639 Q 126.75 15 118.75 15 L -125.25 15 Q -133.25 15 -134.81892908110547 7.155354594472639 Z\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#ffffff\" data-type=\"polygon\" data-corner-radius=\"8\" data-original-points='[{\"x\":-145.75,\"y\":-47.5},{\"x\":139.25,\"y\":-47.5},{\"x\":126.75,\"y\":15},{\"x\":-133.25,\"y\":15}]'/><circle cx=\"-105\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-105\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">1</text><circle cx=\"-90\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-90\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">2</text><circle cx=\"-75\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-75\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">3</text><circle cx=\"-60\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-60\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">4</text><circle cx=\"-45\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-45\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">5</text><circle cx=\"-30\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-30\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">6</text><circle cx=\"-15\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-15\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">7</text><circle cx=\"0\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"0\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">8</text><circle cx=\"15\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"15\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">9</text><circle cx=\"30\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"30\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">10</text><circle cx=\"45\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"45\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">11</text><circle cx=\"60\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"60\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">12</text><circle cx=\"75\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"75\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">13</text><circle cx=\"90\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"90\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">14</text><circle cx=\"105\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"105\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">15</text><circle cx=\"-112.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-112.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">16</text><circle cx=\"-97.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-97.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">17</text><circle cx=\"-82.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-82.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">18</text><circle cx=\"-67.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-67.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">19</text><circle cx=\"-52.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-52.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">20</text><circle cx=\"-37.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-37.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">21</text><circle cx=\"-22.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-22.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">22</text><circle cx=\"-7.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-7.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">23</text><circle cx=\"7.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"7.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">24</text><circle cx=\"22.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"22.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">25</text><circle cx=\"37.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"37.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">26</text><circle cx=\"52.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"52.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">27</text><circle cx=\"67.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"67.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">28</text><circle cx=\"82.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"82.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">29</text><circle cx=\"97.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"97.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">30</text><circle cx=\"-105\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-105\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">31</text><circle cx=\"-90\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-90\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">32</text><circle cx=\"-75\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-75\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">33</text><circle cx=\"-60\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-60\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">34</text><circle cx=\"-45\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-45\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">35</text><circle cx=\"-30\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-30\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">36</text><circle cx=\"-15\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-15\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">37</text><circle cx=\"0\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"0\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">38</text><circle cx=\"15\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"15\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">39</text><circle cx=\"30\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"30\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">40</text><circle cx=\"45\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"45\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">41</text><circle cx=\"60\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"60\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">42</text><circle cx=\"75\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"75\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">43</text><circle cx=\"90\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"90\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">44</text></svg>",
+            "wire_side": "<svg viewBox=\"-183.25 -150.3125 357.5 268.125\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"645.75\" y=\"-52.5\" width=\"317.5\" height=\"72.5\" rx=\"2\" ry=\"2\" stroke=\"#333333\" stroke-width=\"1\" fill=\"#707070\"/><circle cx=\"950.75\" cy=\"-15\" r=\"5.5901699437494745\" stroke=\"#333333\" stroke-width=\"1\" fill=\"#ffffff\"/><circle cx=\"655.75\" cy=\"-15\" r=\"5.5901699437494745\" stroke=\"#333333\" stroke-width=\"1\" fill=\"#ffffff\"/><path d=\"M 944.1810709188945 -39.65535459447264 Q 945.75 -47.5 937.75 -47.5 L 668.75 -47.5 Q 660.75 -47.5 662.3189290811055 -39.65535459447264 L 671.6810709188945 7.155354594472639 Q 673.25 15 681.25 15 L 925.25 15 Q 933.25 15 934.8189290811055 7.155354594472639 Z\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#ffffff\" data-type=\"polygon\" data-corner-radius=\"8\" data-original-points='[{\"x\":945.75,\"y\":-47.5},{\"x\":660.75,\"y\":-47.5},{\"x\":673.25,\"y\":15},{\"x\":933.25,\"y\":15}]'/><circle cx=\"905\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"905\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">1</text><circle cx=\"890\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"890\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">2</text><circle cx=\"875\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"875\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">3</text><circle cx=\"860\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"860\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">4</text><circle cx=\"845\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"845\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">5</text><circle cx=\"830\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"830\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">6</text><circle cx=\"815\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"815\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">7</text><circle cx=\"800\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"800\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">8</text><circle cx=\"785\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"785\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">9</text><circle cx=\"770\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"770\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">10</text><circle cx=\"755\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"755\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">11</text><circle cx=\"740\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"740\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">12</text><circle cx=\"725\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"725\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">13</text><circle cx=\"710\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"710\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">14</text><circle cx=\"695\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"695\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">15</text><circle cx=\"912.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"912.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">16</text><circle cx=\"897.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"897.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">17</text><circle cx=\"882.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"882.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">18</text><circle cx=\"867.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"867.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">19</text><circle cx=\"852.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"852.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">20</text><circle cx=\"837.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"837.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">21</text><circle cx=\"822.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"822.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">22</text><circle cx=\"807.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"807.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">23</text><circle cx=\"792.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"792.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">24</text><circle cx=\"777.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"777.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">25</text><circle cx=\"762.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"762.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">26</text><circle cx=\"747.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"747.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">27</text><circle cx=\"732.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"732.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">28</text><circle cx=\"717.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"717.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">29</text><circle cx=\"702.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"702.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">30</text><circle cx=\"905\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"905\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">31</text><circle cx=\"890\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"890\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">32</text><circle cx=\"875\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"875\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">33</text><circle cx=\"860\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"860\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">34</text><circle cx=\"845\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"845\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">35</text><circle cx=\"830\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"830\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">36</text><circle cx=\"815\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"815\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">37</text><circle cx=\"800\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"800\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">38</text><circle cx=\"785\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"785\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">39</text><circle cx=\"770\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"770\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">40</text><circle cx=\"755\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"755\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">41</text><circle cx=\"740\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"740\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">42</text><circle cx=\"725\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"725\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">43</text><circle cx=\"710\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"710\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">44</text></svg>"
+          },
+          "fastening_type": "screws",
+          "features": [
+            "d_sub",
+            "screw_lock",
+            "high_density"
+          ],
+          "insulation_material": "plastic",
+          "is_approved": null,
+          "is_custom": true,
+          "is_public": true,
+          "keying_code": "",
+          "mounting_type": "panel_mount",
+          "operating_temp_f": "-55 to 125",
+          "part_id": "fa20e1a0-2489-4a0f-bb68-0c80da2a4ba7",
+          "pin_mapping": {
+            "0": "1",
+            "1": "2",
+            "2": "3",
+            "3": "4",
+            "4": "5",
+            "5": "6",
+            "6": "7",
+            "7": "8",
+            "8": "9",
+            "9": "10",
+            "10": "11",
+            "11": "12",
+            "12": "13",
+            "13": "14",
+            "14": "15",
+            "15": "16",
+            "16": "17",
+            "17": "18",
+            "18": "19",
+            "19": "20",
+            "20": "21",
+            "21": "22",
+            "22": "23",
+            "23": "24",
+            "24": "25",
+            "25": "26",
+            "26": "27",
+            "27": "28",
+            "28": "29",
+            "29": "30",
+            "30": "31",
+            "31": "32",
+            "32": "33",
+            "33": "34",
+            "34": "35",
+            "35": "36",
+            "36": "37",
+            "37": "38",
+            "38": "39",
+            "39": "40",
+            "40": "41",
+            "41": "42",
+            "42": "43",
+            "43": "44"
+          },
+          "pitch_mm": 2.7699999809265137,
+          "positions": 44,
+          "row_spacing_mm": 2.8399999141693115,
+          "rows": 3,
+          "series": "DB",
+          "shape": "dsub",
+          "wire_awg_max": null,
+          "wire_awg_min": null
+        }
+      },
+      "unit": "pcs"
+    },
+    "W5": {
+      "instance_id": "W5",
+      "part": {
+        "created_at": "2025-06-14T19:20:39.744948Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/UL1015HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 24AWG BLACK 25'",
+        "id": "3494acf6-c148-42ca-bdf0-e4f4892d5ace",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/420/MFG_24UL1015STRBLA25.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "24UL1015STRBLA",
+        "part_id": "3494acf6-c148-42ca-bdf0-e4f4892d5ace",
+        "spec": {
+          "awg": 24,
+          "color": "black",
+          "conductor_type": "stranded",
+          "part_id": "3494acf6-c148-42ca-bdf0-e4f4892d5ace",
+          "stranding": "7/32",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "W1": {
+      "instance_id": "W1",
+      "part": {
+        "created_at": "2025-06-14T19:20:39.744948Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/UL1007HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 24AWG BLU 500'",
+        "id": "b8965b49-1e0c-4100-91fe-7256b7b1cb46",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/420/MFG_24UL1007STRBLU500.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "24UL1007STRBLU",
+        "part_id": "b8965b49-1e0c-4100-91fe-7256b7b1cb46",
+        "spec": {
+          "awg": 24,
+          "color": "blue",
+          "conductor_type": "stranded",
+          "part_id": "b8965b49-1e0c-4100-91fe-7256b7b1cb46",
+          "stranding": "7/32",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "W3": {
+      "instance_id": "W3",
+      "part": {
+        "created_at": "2025-06-14T19:20:39.744948Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/UL1007HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 24AWG 300V GRN 25'",
+        "id": "e92247fd-9e45-4b91-be7b-3bac717a53ff",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/420/MFG_24UL1007STRGRE25.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "24UL1007STRGRE",
+        "part_id": "e92247fd-9e45-4b91-be7b-3bac717a53ff",
+        "spec": {
+          "awg": 24,
+          "color": "green",
+          "conductor_type": "stranded",
+          "part_id": "e92247fd-9e45-4b91-be7b-3bac717a53ff",
+          "stranding": "7/32",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "X1": {
+      "instance_id": "X1",
+      "part": {
+        "created_at": "2025-08-07T11:47:31.922645Z",
+        "datasheet_url": "https://www.te.com/usa-en/product-204521-2.datasheet.pdf",
+        "description": "CONN D-SUB HD PLUG 78POS PNL MNT",
+        "id": "44054944-f510-4ecc-9f4b-756fd7a7b858",
+        "img_url": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1225/204521-2.jpg",
+        "kind": "connector",
+        "manufacturer": "TE Connectivity Aerospace, Defense and Marine",
+        "mpn": "204521-2",
+        "part_id": "44054944-f510-4ecc-9f4b-756fd7a7b858",
+        "spec": {
+          "bridged_positions": null,
+          "category": null,
+          "category_spec": null,
+          "color": "metal",
+          "contact_gender": "male",
+          "contact_termination": "Crimp",
+          "created_by_user_id": "1744109a-8930-4871-aaa0-144b2af8493e",
+          "custom_properties": {
+            "editor_state": {
+              "mate_elements": {
+                "circles": [
+                  {
+                    "color": "#333333",
+                    "cx": -150,
+                    "cy": -15,
+                    "fill": "#ffffff",
+                    "id": "el_dd78_screw1",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 5.5901699437494745,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 1,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 190,
+                    "cy": -15,
+                    "fill": "#ffffff",
+                    "id": "el_dd78_screw2",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 5.5901699437494745,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 1,
+                    "type": "circle",
+                    "visible": true
+                  }
+                ],
+                "femalePins": [],
+                "lines": [],
+                "malePins": [],
+                "paths": [],
+                "polygons": [
+                  {
+                    "closed": true,
+                    "color": "#333333",
+                    "cornerRadius": 8,
+                    "fill": "#ffffff",
+                    "id": "el_dd78_inner",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "points": [
+                      {
+                        "x": -145,
+                        "y": -47.5
+                      },
+                      {
+                        "x": 182.5,
+                        "y": -47.5
+                      },
+                      {
+                        "x": 170,
+                        "y": 27.5
+                      },
+                      {
+                        "x": -132.5,
+                        "y": 27.5
+                      }
+                    ],
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "polygon",
+                    "visible": true
+                  }
+                ],
+                "rectangles": [
+                  {
+                    "color": "#333333",
+                    "cornerRadius": 2,
+                    "fill": "#707070",
+                    "height": 87.5,
+                    "id": "el_dd78_body",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 1,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 360,
+                    "x": -160,
+                    "y": -52.5
+                  }
+                ]
+              },
+              "mate_pins": [
+                {
+                  "gender": "male",
+                  "index": 0,
+                  "pinNumber": "1",
+                  "radius": 5,
+                  "x": -120,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 1,
+                  "pinNumber": "2",
+                  "radius": 5,
+                  "x": -105,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 2,
+                  "pinNumber": "3",
+                  "radius": 5,
+                  "x": -90,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 3,
+                  "pinNumber": "4",
+                  "radius": 5,
+                  "x": -75,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 4,
+                  "pinNumber": "5",
+                  "radius": 5,
+                  "x": -60,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 5,
+                  "pinNumber": "6",
+                  "radius": 5,
+                  "x": -45,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 6,
+                  "pinNumber": "7",
+                  "radius": 5,
+                  "x": -30,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 7,
+                  "pinNumber": "8",
+                  "radius": 5,
+                  "x": -15,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 8,
+                  "pinNumber": "9",
+                  "radius": 5,
+                  "x": 0,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 9,
+                  "pinNumber": "10",
+                  "radius": 5,
+                  "x": 15,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 10,
+                  "pinNumber": "11",
+                  "radius": 5,
+                  "x": 30,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 11,
+                  "pinNumber": "12",
+                  "radius": 5,
+                  "x": 45,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 12,
+                  "pinNumber": "13",
+                  "radius": 5,
+                  "x": 60,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 13,
+                  "pinNumber": "14",
+                  "radius": 5,
+                  "x": 75,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 14,
+                  "pinNumber": "15",
+                  "radius": 5,
+                  "x": 90,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 15,
+                  "pinNumber": "16",
+                  "radius": 5,
+                  "x": 105,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 16,
+                  "pinNumber": "17",
+                  "radius": 5,
+                  "x": 120,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 17,
+                  "pinNumber": "18",
+                  "radius": 5,
+                  "x": 135,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 18,
+                  "pinNumber": "19",
+                  "radius": 5,
+                  "x": 150,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 19,
+                  "pinNumber": "20",
+                  "radius": 5,
+                  "x": 165,
+                  "y": -35
+                },
+                {
+                  "gender": "male",
+                  "index": 20,
+                  "pinNumber": "21",
+                  "radius": 5,
+                  "x": -112.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 21,
+                  "pinNumber": "22",
+                  "radius": 5,
+                  "x": -97.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 22,
+                  "pinNumber": "23",
+                  "radius": 5,
+                  "x": -82.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 23,
+                  "pinNumber": "24",
+                  "radius": 5,
+                  "x": -67.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 24,
+                  "pinNumber": "25",
+                  "radius": 5,
+                  "x": -52.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 25,
+                  "pinNumber": "26",
+                  "radius": 5,
+                  "x": -37.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 26,
+                  "pinNumber": "27",
+                  "radius": 5,
+                  "x": -22.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 27,
+                  "pinNumber": "28",
+                  "radius": 5,
+                  "x": -7.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 28,
+                  "pinNumber": "29",
+                  "radius": 5,
+                  "x": 7.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 29,
+                  "pinNumber": "30",
+                  "radius": 5,
+                  "x": 22.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 30,
+                  "pinNumber": "31",
+                  "radius": 5,
+                  "x": 37.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 31,
+                  "pinNumber": "32",
+                  "radius": 5,
+                  "x": 52.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 32,
+                  "pinNumber": "33",
+                  "radius": 5,
+                  "x": 67.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 33,
+                  "pinNumber": "34",
+                  "radius": 5,
+                  "x": 82.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 34,
+                  "pinNumber": "35",
+                  "radius": 5,
+                  "x": 97.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 35,
+                  "pinNumber": "36",
+                  "radius": 5,
+                  "x": 112.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 36,
+                  "pinNumber": "37",
+                  "radius": 5,
+                  "x": 127.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 37,
+                  "pinNumber": "38",
+                  "radius": 5,
+                  "x": 142.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 38,
+                  "pinNumber": "39",
+                  "radius": 5,
+                  "x": 157.5,
+                  "y": -17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 39,
+                  "pinNumber": "40",
+                  "radius": 5,
+                  "x": -120,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 40,
+                  "pinNumber": "41",
+                  "radius": 5,
+                  "x": -105,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 41,
+                  "pinNumber": "42",
+                  "radius": 5,
+                  "x": -90,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 42,
+                  "pinNumber": "43",
+                  "radius": 5,
+                  "x": -75,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 43,
+                  "pinNumber": "44",
+                  "radius": 5,
+                  "x": -60,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 44,
+                  "pinNumber": "45",
+                  "radius": 5,
+                  "x": -45,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 45,
+                  "pinNumber": "46",
+                  "radius": 5,
+                  "x": -30,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 46,
+                  "pinNumber": "47",
+                  "radius": 5,
+                  "x": -15,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 47,
+                  "pinNumber": "48",
+                  "radius": 5,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 48,
+                  "pinNumber": "49",
+                  "radius": 5,
+                  "x": 15,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 49,
+                  "pinNumber": "50",
+                  "radius": 5,
+                  "x": 30,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 50,
+                  "pinNumber": "51",
+                  "radius": 5,
+                  "x": 45,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 51,
+                  "pinNumber": "52",
+                  "radius": 5,
+                  "x": 60,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 52,
+                  "pinNumber": "53",
+                  "radius": 5,
+                  "x": 75,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 53,
+                  "pinNumber": "54",
+                  "radius": 5,
+                  "x": 90,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 54,
+                  "pinNumber": "55",
+                  "radius": 5,
+                  "x": 105,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 55,
+                  "pinNumber": "56",
+                  "radius": 5,
+                  "x": 120,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 56,
+                  "pinNumber": "57",
+                  "radius": 5,
+                  "x": 135,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 57,
+                  "pinNumber": "58",
+                  "radius": 5,
+                  "x": 150,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 58,
+                  "pinNumber": "59",
+                  "radius": 5,
+                  "x": 165,
+                  "y": 0
+                },
+                {
+                  "gender": "male",
+                  "index": 59,
+                  "pinNumber": "60",
+                  "radius": 5,
+                  "x": -112.5,
+                  "y": 17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 60,
+                  "pinNumber": "61",
+                  "radius": 5,
+                  "x": -97.5,
+                  "y": 17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 61,
+                  "pinNumber": "62",
+                  "radius": 5,
+                  "x": -82.5,
+                  "y": 17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 62,
+                  "pinNumber": "63",
+                  "radius": 5,
+                  "x": -67.5,
+                  "y": 17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 63,
+                  "pinNumber": "64",
+                  "radius": 5,
+                  "x": -52.5,
+                  "y": 17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 64,
+                  "pinNumber": "65",
+                  "radius": 5,
+                  "x": -37.5,
+                  "y": 17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 65,
+                  "pinNumber": "66",
+                  "radius": 5,
+                  "x": -22.5,
+                  "y": 17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 66,
+                  "pinNumber": "67",
+                  "radius": 5,
+                  "x": -7.5,
+                  "y": 17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 67,
+                  "pinNumber": "68",
+                  "radius": 5,
+                  "x": 7.5,
+                  "y": 17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 68,
+                  "pinNumber": "69",
+                  "radius": 5,
+                  "x": 22.5,
+                  "y": 17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 69,
+                  "pinNumber": "70",
+                  "radius": 5,
+                  "x": 37.5,
+                  "y": 17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 70,
+                  "pinNumber": "71",
+                  "radius": 5,
+                  "x": 52.5,
+                  "y": 17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 71,
+                  "pinNumber": "72",
+                  "radius": 5,
+                  "x": 67.5,
+                  "y": 17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 72,
+                  "pinNumber": "73",
+                  "radius": 5,
+                  "x": 82.5,
+                  "y": 17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 73,
+                  "pinNumber": "74",
+                  "radius": 5,
+                  "x": 97.5,
+                  "y": 17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 74,
+                  "pinNumber": "75",
+                  "radius": 5,
+                  "x": 112.5,
+                  "y": 17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 75,
+                  "pinNumber": "76",
+                  "radius": 5,
+                  "x": 127.5,
+                  "y": 17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 76,
+                  "pinNumber": "77",
+                  "radius": 5,
+                  "x": 142.5,
+                  "y": 17.5
+                },
+                {
+                  "gender": "male",
+                  "index": 77,
+                  "pinNumber": "78",
+                  "radius": 5,
+                  "x": 157.5,
+                  "y": 17.5
+                }
+              ],
+              "pin_elements": {
+                "circles": [
+                  {
+                    "color": "#333333",
+                    "cx": -150,
+                    "cy": -15,
+                    "fill": "#ffffff",
+                    "id": "el_dd78_screw1",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 5.5901699437494745,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 1,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 190,
+                    "cy": -15,
+                    "fill": "#ffffff",
+                    "id": "el_dd78_screw2",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "r": 5.5901699437494745,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 1,
+                    "type": "circle",
+                    "visible": true
+                  }
+                ],
+                "femalePins": [],
+                "lines": [],
+                "malePins": [],
+                "paths": [],
+                "polygons": [
+                  {
+                    "closed": true,
+                    "color": "#333333",
+                    "cornerRadius": 8,
+                    "fill": "#ffffff",
+                    "id": "el_dd78_inner",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "points": [
+                      {
+                        "x": -145,
+                        "y": -47.5
+                      },
+                      {
+                        "x": 182.5,
+                        "y": -47.5
+                      },
+                      {
+                        "x": 170,
+                        "y": 27.5
+                      },
+                      {
+                        "x": -132.5,
+                        "y": 27.5
+                      }
+                    ],
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "polygon",
+                    "visible": true
+                  }
+                ],
+                "rectangles": [
+                  {
+                    "color": "#333333",
+                    "cornerRadius": 2,
+                    "fill": "#707070",
+                    "height": 87.5,
+                    "id": "el_dd78_body",
+                    "layer": 0,
+                    "mirrorX": false,
+                    "mirrorY": false,
+                    "rotation": 0,
+                    "strokeColor": "#333333",
+                    "thickness": 1,
+                    "type": "rectangle",
+                    "visible": true,
+                    "width": 360,
+                    "x": -160,
+                    "y": -52.5
+                  }
+                ]
+              }
+            },
+            "version": "1.0"
+          },
+          "custom_svg": {
+            "mate_side": "<svg viewBox=\"-180 -158.75 400 300\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"-160\" y=\"-52.5\" width=\"360\" height=\"87.5\" rx=\"2\" ry=\"2\" stroke=\"#333333\" stroke-width=\"1\" fill=\"#707070\"/><circle cx=\"-150\" cy=\"-15\" r=\"5.5901699437494745\" stroke=\"#333333\" stroke-width=\"1\" fill=\"#ffffff\"/><circle cx=\"190\" cy=\"-15\" r=\"5.5901699437494745\" stroke=\"#333333\" stroke-width=\"1\" fill=\"#ffffff\"/><path d=\"M -143.68480810155714 -39.60884860934285 Q -145 -47.5 -137 -47.5 L 174.5 -47.5 Q 182.5 -47.5 181.18480810155714 -39.60884860934285 L 171.31519189844286 19.60884860934285 Q 170 27.5 162 27.5 L -124.5 27.5 Q -132.5 27.5 -133.81519189844286 19.60884860934285 Z\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#ffffff\" data-type=\"polygon\" data-corner-radius=\"8\" data-original-points='[{\"x\":-145,\"y\":-47.5},{\"x\":182.5,\"y\":-47.5},{\"x\":170,\"y\":27.5},{\"x\":-132.5,\"y\":27.5}]'/><circle cx=\"-120\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-120\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">1</text><circle cx=\"-105\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-105\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">2</text><circle cx=\"-90\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-90\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">3</text><circle cx=\"-75\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-75\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">4</text><circle cx=\"-60\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-60\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">5</text><circle cx=\"-45\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-45\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">6</text><circle cx=\"-30\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-30\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">7</text><circle cx=\"-15\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-15\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">8</text><circle cx=\"0\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"0\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">9</text><circle cx=\"15\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"15\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">10</text><circle cx=\"30\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"30\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">11</text><circle cx=\"45\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"45\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">12</text><circle cx=\"60\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"60\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">13</text><circle cx=\"75\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"75\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">14</text><circle cx=\"90\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"90\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">15</text><circle cx=\"105\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"105\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">16</text><circle cx=\"120\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"120\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">17</text><circle cx=\"135\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"135\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">18</text><circle cx=\"150\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"150\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">19</text><circle cx=\"165\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"165\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">20</text><circle cx=\"-112.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-112.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">21</text><circle cx=\"-97.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-97.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">22</text><circle cx=\"-82.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-82.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">23</text><circle cx=\"-67.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-67.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">24</text><circle cx=\"-52.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-52.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">25</text><circle cx=\"-37.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-37.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">26</text><circle cx=\"-22.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-22.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">27</text><circle cx=\"-7.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-7.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">28</text><circle cx=\"7.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"7.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">29</text><circle cx=\"22.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"22.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">30</text><circle cx=\"37.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"37.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">31</text><circle cx=\"52.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"52.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">32</text><circle cx=\"67.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"67.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">33</text><circle cx=\"82.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"82.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">34</text><circle cx=\"97.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"97.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">35</text><circle cx=\"112.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"112.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">36</text><circle cx=\"127.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"127.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">37</text><circle cx=\"142.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"142.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">38</text><circle cx=\"157.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"157.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">39</text><circle cx=\"-120\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-120\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">40</text><circle cx=\"-105\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-105\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">41</text><circle cx=\"-90\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-90\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">42</text><circle cx=\"-75\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-75\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">43</text><circle cx=\"-60\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-60\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">44</text><circle cx=\"-45\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-45\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">45</text><circle cx=\"-30\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-30\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">46</text><circle cx=\"-15\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-15\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">47</text><circle cx=\"0\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"0\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">48</text><circle cx=\"15\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"15\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">49</text><circle cx=\"30\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"30\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">50</text><circle cx=\"45\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"45\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">51</text><circle cx=\"60\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"60\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">52</text><circle cx=\"75\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"75\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">53</text><circle cx=\"90\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"90\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">54</text><circle cx=\"105\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"105\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">55</text><circle cx=\"120\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"120\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">56</text><circle cx=\"135\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"135\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">57</text><circle cx=\"150\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"150\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">58</text><circle cx=\"165\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"165\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">59</text><circle cx=\"-112.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-112.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">60</text><circle cx=\"-97.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-97.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">61</text><circle cx=\"-82.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-82.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">62</text><circle cx=\"-67.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-67.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">63</text><circle cx=\"-52.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-52.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">64</text><circle cx=\"-37.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-37.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">65</text><circle cx=\"-22.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-22.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">66</text><circle cx=\"-7.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"-7.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">67</text><circle cx=\"7.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"7.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">68</text><circle cx=\"22.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"22.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">69</text><circle cx=\"37.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"37.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">70</text><circle cx=\"52.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"52.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">71</text><circle cx=\"67.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"67.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">72</text><circle cx=\"82.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"82.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">73</text><circle cx=\"97.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"97.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">74</text><circle cx=\"112.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"112.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">75</text><circle cx=\"127.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"127.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">76</text><circle cx=\"142.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"142.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">77</text><circle cx=\"157.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"157.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">78</text></svg>",
+            "wire_side": "<svg viewBox=\"-180 -158.75 400 300\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"600\" y=\"-52.5\" width=\"360\" height=\"87.5\" rx=\"2\" ry=\"2\" stroke=\"#333333\" stroke-width=\"1\" fill=\"#707070\"/><circle cx=\"950\" cy=\"-15\" r=\"5.5901699437494745\" stroke=\"#333333\" stroke-width=\"1\" fill=\"#ffffff\"/><circle cx=\"610\" cy=\"-15\" r=\"5.5901699437494745\" stroke=\"#333333\" stroke-width=\"1\" fill=\"#ffffff\"/><path d=\"M 943.6848081015571 -39.60884860934285 Q 945 -47.5 937 -47.5 L 625.5 -47.5 Q 617.5 -47.5 618.8151918984429 -39.60884860934285 L 628.6848081015571 19.60884860934285 Q 630 27.5 638 27.5 L 924.5 27.5 Q 932.5 27.5 933.8151918984429 19.60884860934285 Z\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#ffffff\" data-type=\"polygon\" data-corner-radius=\"8\" data-original-points='[{\"x\":945,\"y\":-47.5},{\"x\":617.5,\"y\":-47.5},{\"x\":630,\"y\":27.5},{\"x\":932.5,\"y\":27.5}]'/><circle cx=\"920\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"920\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">1</text><circle cx=\"905\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"905\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">2</text><circle cx=\"890\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"890\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">3</text><circle cx=\"875\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"875\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">4</text><circle cx=\"860\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"860\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">5</text><circle cx=\"845\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"845\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">6</text><circle cx=\"830\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"830\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">7</text><circle cx=\"815\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"815\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">8</text><circle cx=\"800\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"800\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">9</text><circle cx=\"785\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"785\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">10</text><circle cx=\"770\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"770\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">11</text><circle cx=\"755\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"755\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">12</text><circle cx=\"740\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"740\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">13</text><circle cx=\"725\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"725\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">14</text><circle cx=\"710\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"710\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">15</text><circle cx=\"695\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"695\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">16</text><circle cx=\"680\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"680\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">17</text><circle cx=\"665\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"665\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">18</text><circle cx=\"650\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"650\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">19</text><circle cx=\"635\" cy=\"-35\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"635\" y=\"-31\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">20</text><circle cx=\"912.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"912.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">21</text><circle cx=\"897.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"897.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">22</text><circle cx=\"882.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"882.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">23</text><circle cx=\"867.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"867.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">24</text><circle cx=\"852.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"852.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">25</text><circle cx=\"837.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"837.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">26</text><circle cx=\"822.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"822.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">27</text><circle cx=\"807.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"807.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">28</text><circle cx=\"792.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"792.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">29</text><circle cx=\"777.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"777.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">30</text><circle cx=\"762.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"762.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">31</text><circle cx=\"747.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"747.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">32</text><circle cx=\"732.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"732.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">33</text><circle cx=\"717.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"717.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">34</text><circle cx=\"702.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"702.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">35</text><circle cx=\"687.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"687.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">36</text><circle cx=\"672.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"672.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">37</text><circle cx=\"657.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"657.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">38</text><circle cx=\"642.5\" cy=\"-17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"642.5\" y=\"-13.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">39</text><circle cx=\"920\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"920\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">40</text><circle cx=\"905\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"905\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">41</text><circle cx=\"890\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"890\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">42</text><circle cx=\"875\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"875\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">43</text><circle cx=\"860\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"860\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">44</text><circle cx=\"845\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"845\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">45</text><circle cx=\"830\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"830\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">46</text><circle cx=\"815\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"815\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">47</text><circle cx=\"800\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"800\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">48</text><circle cx=\"785\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"785\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">49</text><circle cx=\"770\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"770\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">50</text><circle cx=\"755\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"755\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">51</text><circle cx=\"740\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"740\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">52</text><circle cx=\"725\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"725\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">53</text><circle cx=\"710\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"710\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">54</text><circle cx=\"695\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"695\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">55</text><circle cx=\"680\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"680\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">56</text><circle cx=\"665\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"665\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">57</text><circle cx=\"650\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"650\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">58</text><circle cx=\"635\" cy=\"0\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"635\" y=\"4\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">59</text><circle cx=\"912.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"912.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">60</text><circle cx=\"897.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"897.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">61</text><circle cx=\"882.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"882.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">62</text><circle cx=\"867.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"867.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">63</text><circle cx=\"852.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"852.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">64</text><circle cx=\"837.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"837.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">65</text><circle cx=\"822.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"822.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">66</text><circle cx=\"807.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"807.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">67</text><circle cx=\"792.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"792.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">68</text><circle cx=\"777.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"777.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">69</text><circle cx=\"762.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"762.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">70</text><circle cx=\"747.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"747.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">71</text><circle cx=\"732.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"732.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">72</text><circle cx=\"717.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"717.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">73</text><circle cx=\"702.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"702.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">74</text><circle cx=\"687.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"687.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">75</text><circle cx=\"672.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"672.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">76</text><circle cx=\"657.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"657.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">77</text><circle cx=\"642.5\" cy=\"17.5\" r=\"5\" fill=\"#333\" stroke=\"#666\" stroke-width=\"1\"/><text x=\"642.5\" y=\"21.5\" text-anchor=\"middle\" font-size=\"10\" fill=\"white\" font-weight=\"bold\" user-select=\"none\">78</text></svg>"
+          },
+          "fastening_type": "screws",
+          "features": [
+            "d_sub",
+            "screw_lock",
+            "high_density"
+          ],
+          "insulation_material": "plastic",
+          "is_approved": null,
+          "is_custom": true,
+          "is_public": true,
+          "keying_code": "",
+          "mounting_type": "Panel Mount",
+          "operating_temp_f": "-55 to 125",
+          "part_id": "44054944-f510-4ecc-9f4b-756fd7a7b858",
+          "pin_mapping": {
+            "0": "1",
+            "1": "2",
+            "2": "3",
+            "3": "4",
+            "4": "5",
+            "5": "6",
+            "6": "7",
+            "7": "8",
+            "8": "9",
+            "9": "10",
+            "10": "11",
+            "11": "12",
+            "12": "13",
+            "13": "14",
+            "14": "15",
+            "15": "16",
+            "16": "17",
+            "17": "18",
+            "18": "19",
+            "19": "20",
+            "20": "21",
+            "21": "22",
+            "22": "23",
+            "23": "24",
+            "24": "25",
+            "25": "26",
+            "26": "27",
+            "27": "28",
+            "28": "29",
+            "29": "30",
+            "30": "31",
+            "31": "32",
+            "32": "33",
+            "33": "34",
+            "34": "35",
+            "35": "36",
+            "36": "37",
+            "37": "38",
+            "38": "39",
+            "39": "40",
+            "40": "41",
+            "41": "42",
+            "42": "43",
+            "43": "44",
+            "44": "45",
+            "45": "46",
+            "46": "47",
+            "47": "48",
+            "48": "49",
+            "49": "50",
+            "50": "51",
+            "51": "52",
+            "52": "53",
+            "53": "54",
+            "54": "55",
+            "55": "56",
+            "56": "57",
+            "57": "58",
+            "58": "59",
+            "59": "60",
+            "60": "61",
+            "61": "62",
+            "62": "63",
+            "63": "64",
+            "64": "65",
+            "65": "66",
+            "66": "67",
+            "67": "68",
+            "68": "69",
+            "69": "70",
+            "70": "71",
+            "71": "72",
+            "72": "73",
+            "73": "74",
+            "74": "75",
+            "75": "76",
+            "76": "77",
+            "77": "78"
+          },
+          "pitch_mm": 2.7699999809265137,
+          "positions": 78,
+          "row_spacing_mm": 2.8399999141693115,
+          "rows": 4,
+          "series": "DD",
+          "shape": "dsub",
+          "wire_awg_max": 26,
+          "wire_awg_min": 20
+        }
+      },
+      "unit": "pcs"
+    },
+    "W7": {
+      "instance_id": "W7",
+      "part": {
+        "created_at": "2025-06-14T19:20:39.744948Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/UL1007HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 24AWG BLU 500'",
+        "id": "b8965b49-1e0c-4100-91fe-7256b7b1cb46",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/420/MFG_24UL1007STRBLU500.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "24UL1007STRBLU",
+        "part_id": "b8965b49-1e0c-4100-91fe-7256b7b1cb46",
+        "spec": {
+          "awg": 24,
+          "color": "blue",
+          "conductor_type": "stranded",
+          "part_id": "b8965b49-1e0c-4100-91fe-7256b7b1cb46",
+          "stranding": "7/32",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "W8": {
+      "instance_id": "W8",
+      "part": {
+        "created_at": "2025-06-14T19:20:39.744948Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/UL1007HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 24AWG 300V GRN 25'",
+        "id": "e92247fd-9e45-4b91-be7b-3bac717a53ff",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/420/MFG_24UL1007STRGRE25.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "24UL1007STRGRE",
+        "part_id": "e92247fd-9e45-4b91-be7b-3bac717a53ff",
+        "spec": {
+          "awg": 24,
+          "color": "green",
+          "conductor_type": "stranded",
+          "part_id": "e92247fd-9e45-4b91-be7b-3bac717a53ff",
+          "stranding": "7/32",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    }
+  },
+  "data": {
+    "mapping": {
+      "W3": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "X1",
+          "pin": 48,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": -170,
+                "y": -508
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "end2": {
+          "type": "connector_pin",
+          "connector_instance": "X3",
+          "pin": 25,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 100,
+                "y": -508
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "label": "IN A",
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 1500,
+        "twisted_pair_id": null
+      },
+      "W4": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "X1",
+          "pin": 49,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": -160,
+                "y": -488
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "end2": {
+          "type": "connector_pin",
+          "connector_instance": "X3",
+          "pin": 13,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 90,
+                "y": -488
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "label": "IN B",
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 1500,
+        "twisted_pair_id": null
+      },
+      "W2": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "X1",
+          "pin": 47,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": -180,
+                "y": -528
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "end2": {
+          "type": "connector_pin",
+          "connector_instance": "X3",
+          "pin": 11,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 110,
+                "y": -528
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "label": "OUT B",
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 1500,
+        "twisted_pair_id": null
+      },
+      "W1": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "X1",
+          "pin": 46,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": -190,
+                "y": -548
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "end2": {
+          "type": "connector_pin",
+          "connector_instance": "X3",
+          "pin": 23,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 120,
+                "y": -548
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "label": "OUT A",
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 1500,
+        "twisted_pair_id": null
+      },
+      "W5": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "X1",
+          "pin": 54,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": -150,
+                "y": -468
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "end2": {
+          "type": "connector_pin",
+          "connector_instance": "X3",
+          "pin": 3,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 80,
+                "y": -468
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "label": "RS232 OUT",
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 1500,
+        "twisted_pair_id": null
+      },
+      "W6": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "X2",
+          "pin": 23,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 690,
+                "y": -540
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "end2": {
+          "type": "connector_pin",
+          "connector_instance": "X3",
+          "pin": 10,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 400,
+                "y": -540
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "label": "OUT B ",
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 1500,
+        "twisted_pair_id": null
+      },
+      "W7": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "X2",
+          "pin": 24,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 700,
+                "y": -520
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "end2": {
+          "type": "connector_pin",
+          "connector_instance": "X3",
+          "pin": 22,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 390,
+                "y": -520
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "label": "OUT A",
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 1500,
+        "twisted_pair_id": null
+      },
+      "W8": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "X2",
+          "pin": 35,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 710,
+                "y": -488
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "end2": {
+          "type": "connector_pin",
+          "connector_instance": "X3",
+          "pin": 12,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 380,
+                "y": -488
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "label": "IN B",
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 1500,
+        "twisted_pair_id": null
+      },
+      "W9": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "X2",
+          "pin": 36,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 720,
+                "y": -468
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "end2": {
+          "type": "connector_pin",
+          "connector_instance": "X3",
+          "pin": 24,
+          "side": "right",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 370,
+                "y": -468
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "label": "IN A",
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 1500,
+        "twisted_pair_id": null
+      }
+    },
+    "connector_positions": {
+      "X1": {
+        "x": -500,
+        "y": -480
+      },
+      "X3": {
+        "x": 160,
+        "y": -480
+      },
+      "X2": {
+        "x": 800,
+        "y": -480
+      }
+    },
+    "wire_anchors": {
+      "X1": {
+        "x": 0,
+        "y": 0
+      },
+      "X2": {
+        "x": 0,
+        "y": 0
+      },
+      "X3": {
+        "x": 0,
+        "y": 0
+      },
+      "X1|X2": {
+        "x": 0,
+        "y": -480
+      },
+      "X1|X3": {
+        "x": -180,
+        "y": -580
+      },
+      "X2|X3": {
+        "x": 460,
+        "y": -580
+      }
+    },
+    "cable_positions": {},
+    "design_notes": [],
+    "name": "GNS430 NAV",
+    "description": null,
+    "notes": null
+  },
+  "harness_id": "current",
+  "revision_id": "dffae0e4-fdf6-437a-a3cc-6337bc048830"
+}

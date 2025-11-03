@@ -1,0 +1,471 @@
+{
+  "bom": {
+    "W4": {
+      "instance_id": "W4",
+      "part": {
+        "created_at": "2025-06-14T19:20:39.253072Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/UL1007HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 20AWG BLACK 500'",
+        "id": "c4ac8998-898d-4674-b2dd-8ed4b861e1aa",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/419/MFG_20UL1007STRBLA500.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "20UL1007STRBLA",
+        "part_id": "c4ac8998-898d-4674-b2dd-8ed4b861e1aa",
+        "spec": {
+          "awg": 20,
+          "color": "black",
+          "conductor_type": "stranded",
+          "part_id": "c4ac8998-898d-4674-b2dd-8ed4b861e1aa",
+          "stranding": "10/30",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "W1": {
+      "instance_id": "W1",
+      "part": {
+        "created_at": "2025-06-14T19:20:39.253072Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/UL1015HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 20AWG RED 100'",
+        "id": "58c1785d-12d7-4568-93d2-fa0e25f43e42",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/419/MFG_20UL1015STRRED.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "20UL1015STRRED",
+        "part_id": "58c1785d-12d7-4568-93d2-fa0e25f43e42",
+        "spec": {
+          "awg": 20,
+          "color": "red",
+          "conductor_type": "stranded",
+          "part_id": "58c1785d-12d7-4568-93d2-fa0e25f43e42",
+          "stranding": "10/30",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "W3": {
+      "instance_id": "W3",
+      "part": {
+        "created_at": "2025-06-14T19:20:39.253072Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/UL1007HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 20AWG BLACK 500'",
+        "id": "c4ac8998-898d-4674-b2dd-8ed4b861e1aa",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/419/MFG_20UL1007STRBLA500.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "20UL1007STRBLA",
+        "part_id": "c4ac8998-898d-4674-b2dd-8ed4b861e1aa",
+        "spec": {
+          "awg": 20,
+          "color": "black",
+          "conductor_type": "stranded",
+          "part_id": "c4ac8998-898d-4674-b2dd-8ed4b861e1aa",
+          "stranding": "10/30",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    },
+    "X1": {
+      "instance_id": "X1",
+      "part": {
+        "created_at": "2025-06-25T11:47:32.510784Z",
+        "datasheet_url": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/316/KPJX-PM_Panel_Cutout.pdf?_gl=1*1t2qpve*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwmenCBhA4EiwAtVjzmgyK8xbWpbwUCbMY3pjgD2cUCgP1ZnraloVDmIVGdLjyfPSFdKl_SxoCwg4QAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADrbLljHE-ttSGTkaudAjZ25JwaXj",
+        "description": "4 (Power) Position Circular Connector Jack, Female Sockets Solder",
+        "id": "c577325d-8056-4206-8d59-77c3907dbbb5",
+        "img_url": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/1/010/983/MFG_KPJX-PM-4S_sml.jpg",
+        "kind": "connector",
+        "manufacturer": "Kycon, Inc.",
+        "mpn": "KPJX-PM-4S",
+        "part_id": "c577325d-8056-4206-8d59-77c3907dbbb5",
+        "spec": {
+          "bridged_positions": null,
+          "category": null,
+          "category_spec": null,
+          "color": "Black",
+          "contact_gender": "female",
+          "contact_termination": "Solder",
+          "created_by_user_id": "1744109a-8930-4871-aaa0-144b2af8493e",
+          "custom_properties": {
+            "editor_state": {
+              "mate_elements": {
+                "circles": [
+                  {
+                    "color": "#333333",
+                    "cx": 140,
+                    "cy": 60,
+                    "id": "el_6cwdgew7y",
+                    "layer": 1,
+                    "r": 34.40930106817051,
+                    "strokeColor": "#333333",
+                    "thickness": 4,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 68,
+                    "cy": 60,
+                    "fill": "#ffffff",
+                    "id": "el_2198v5ccn",
+                    "layer": 1,
+                    "r": 8.94427190999916,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  },
+                  {
+                    "color": "#333333",
+                    "cx": 212,
+                    "cy": 60,
+                    "fill": "#ffffff",
+                    "id": "el_n6j4c2ahv",
+                    "layer": 1,
+                    "r": 8.94427190999916,
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "circle",
+                    "visible": true
+                  }
+                ],
+                "femalePins": [],
+                "lines": [],
+                "malePins": [],
+                "paths": [],
+                "polygons": [
+                  {
+                    "closed": true,
+                    "color": "#333333",
+                    "cornerRadius": 6,
+                    "fill": "#636363",
+                    "id": "el_s5v6ep07o",
+                    "layer": 0,
+                    "points": [
+                      {
+                        "x": 132,
+                        "y": 16
+                      },
+                      {
+                        "x": 52,
+                        "y": 52
+                      },
+                      {
+                        "x": 52,
+                        "y": 68
+                      },
+                      {
+                        "x": 132,
+                        "y": 104
+                      },
+                      {
+                        "x": 148,
+                        "y": 104
+                      },
+                      {
+                        "x": 228,
+                        "y": 68
+                      },
+                      {
+                        "x": 228,
+                        "y": 52
+                      },
+                      {
+                        "x": 148,
+                        "y": 16
+                      }
+                    ],
+                    "strokeColor": "#333333",
+                    "thickness": 2,
+                    "type": "polygon",
+                    "visible": true
+                  }
+                ],
+                "rectangles": []
+              },
+              "mate_pins": [
+                {
+                  "gender": "female",
+                  "index": 0,
+                  "pinNumber": "1",
+                  "radius": 8,
+                  "x": 124,
+                  "y": 48
+                },
+                {
+                  "gender": "female",
+                  "index": 1,
+                  "pinNumber": "2",
+                  "radius": 8,
+                  "x": 156,
+                  "y": 48
+                },
+                {
+                  "gender": "female",
+                  "index": 2,
+                  "pinNumber": "3",
+                  "radius": 8,
+                  "x": 128,
+                  "y": 72
+                },
+                {
+                  "gender": "female",
+                  "index": 3,
+                  "pinNumber": "4",
+                  "radius": 8,
+                  "x": 152,
+                  "y": 72
+                }
+              ],
+              "pin_elements": null
+            },
+            "version": "1.0"
+          },
+          "custom_svg": {
+            "mate_side": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 137.33333333333334 16 Q 132 16 127.1364186390661 18.188611612420257 L 56.8635813609339 49.81138838757975 Q 52 52 52 57.333333333333336 L 52 62.666666666666664 Q 52 68 56.8635813609339 70.18861161242026 L 127.1364186390661 101.81138838757974 Q 132 104 137.33333333333334 104 L 142.66666666666666 104 Q 148 104 152.8635813609339 101.81138838757974 L 223.1364186390661 70.18861161242026 Q 228 68 228 62.666666666666664 L 228 57.333333333333336 Q 228 52 223.1364186390661 49.81138838757975 L 152.8635813609339 18.188611612420257 Q 148 16 142.66666666666666 16 Z\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#636363\" data-type=\"polygon\" data-corner-radius=\"6\" data-original-points='[{\"x\":132,\"y\":16},{\"x\":52,\"y\":52},{\"x\":52,\"y\":68},{\"x\":132,\"y\":104},{\"x\":148,\"y\":104},{\"x\":228,\"y\":68},{\"x\":228,\"y\":52},{\"x\":148,\"y\":16}]'/><circle cx=\"140\" cy=\"60\" r=\"34.40930106817051\" stroke=\"#333333\" stroke-width=\"4\" fill=\"none\"/><circle cx=\"68\" cy=\"60\" r=\"8.94427190999916\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#ffffff\"/><circle cx=\"212\" cy=\"60\" r=\"8.94427190999916\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#ffffff\"/><circle cx=\"124\" cy=\"48\" r=\"8\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"124\" y=\"52\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">1</text><circle cx=\"156\" cy=\"48\" r=\"8\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"156\" y=\"52\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">2</text><circle cx=\"128\" cy=\"72\" r=\"8\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"128\" y=\"76\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">3</text><circle cx=\"152\" cy=\"72\" r=\"8\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"152\" y=\"76\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">4</text></svg>",
+            "wire_side": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 662.6666666666666 16 Q 668 16 672.863581360934 18.188611612420257 L 743.136418639066 49.81138838757975 Q 748 52 748 57.333333333333336 L 748 62.666666666666664 Q 748 68 743.136418639066 70.18861161242026 L 672.863581360934 101.81138838757974 Q 668 104 662.6666666666666 104 L 657.3333333333334 104 Q 652 104 647.136418639066 101.81138838757974 L 576.863581360934 70.18861161242026 Q 572 68 572 62.666666666666664 L 572 57.333333333333336 Q 572 52 576.863581360934 49.81138838757975 L 647.136418639066 18.188611612420257 Q 652 16 657.3333333333334 16 Z\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#636363\" data-type=\"polygon\" data-corner-radius=\"6\" data-original-points='[{\"x\":668,\"y\":16},{\"x\":748,\"y\":52},{\"x\":748,\"y\":68},{\"x\":668,\"y\":104},{\"x\":652,\"y\":104},{\"x\":572,\"y\":68},{\"x\":572,\"y\":52},{\"x\":652,\"y\":16}]'/><circle cx=\"660\" cy=\"60\" r=\"34.40930106817051\" stroke=\"#333333\" stroke-width=\"4\" fill=\"none\"/><circle cx=\"732\" cy=\"60\" r=\"8.94427190999916\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#ffffff\"/><circle cx=\"588\" cy=\"60\" r=\"8.94427190999916\" stroke=\"#333333\" stroke-width=\"2\" fill=\"#ffffff\"/><circle cx=\"676\" cy=\"48\" r=\"8\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"676\" y=\"52\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">1</text><circle cx=\"644\" cy=\"48\" r=\"8\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"644\" y=\"52\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">2</text><circle cx=\"672\" cy=\"72\" r=\"8\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"672\" y=\"76\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">3</text><circle cx=\"648\" cy=\"72\" r=\"8\" fill=\"white\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"648\" y=\"76\" text-anchor=\"middle\" font-size=\"10\" fill=\"#333\" font-weight=\"bold\" user-select=\"none\">4</text></svg>"
+          },
+          "fastening_type": "",
+          "features": [
+            "RoHS Compliant",
+            "Panel Mount",
+            "Right Angle"
+          ],
+          "insulation_material": "Polybutylene Terephthalate (PBT)",
+          "is_approved": null,
+          "is_custom": true,
+          "is_public": true,
+          "keying_code": "",
+          "mounting_type": "Panel Mount, Through Hole",
+          "operating_temp_f": "",
+          "part_id": "c577325d-8056-4206-8d59-77c3907dbbb5",
+          "pin_mapping": {
+            "0": "1",
+            "1": "2",
+            "2": "3",
+            "3": "4"
+          },
+          "pitch_mm": null,
+          "positions": 4,
+          "row_spacing_mm": null,
+          "rows": null,
+          "series": "KPJX-PM",
+          "shape": "circular",
+          "wire_awg_max": 24,
+          "wire_awg_min": 16
+        }
+      },
+      "unit": "each"
+    },
+    "W2": {
+      "instance_id": "W2",
+      "part": {
+        "created_at": "2025-06-14T19:20:39.253072Z",
+        "datasheet_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/56/UL1015HookUpWireDataSheet.pdf",
+        "description": "HOOK-UP STRND 20AWG RED 100'",
+        "id": "58c1785d-12d7-4568-93d2-fa0e25f43e42",
+        "img_url": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/419/MFG_20UL1015STRRED.jpg",
+        "kind": "wire",
+        "manufacturer": "Remington Industries",
+        "mpn": "20UL1015STRRED",
+        "part_id": "58c1785d-12d7-4568-93d2-fa0e25f43e42",
+        "spec": {
+          "awg": 20,
+          "color": "red",
+          "conductor_type": "stranded",
+          "part_id": "58c1785d-12d7-4568-93d2-fa0e25f43e42",
+          "stranding": "10/30",
+          "stripe": null
+        }
+      },
+      "unit": "each"
+    }
+  },
+  "data": {
+    "mapping": {
+      "W4": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "X1",
+          "pin": 4,
+          "side": "left",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [
+              {
+                "x": 940,
+                "y": 252
+              }
+            ],
+            "bundleSide": "left"
+          }
+        },
+        "end2": {
+          "type": "flying_lead",
+          "termination_type": "tinned",
+          "strip_length_mm": null,
+          "tin_length_mm": null,
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [],
+            "bundleSide": "right"
+          }
+        },
+        "label": "GND",
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": null,
+        "twisted_pair_id": null
+      },
+      "W1": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "X1",
+          "pin": 1,
+          "side": "left",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "manual",
+            "waypoints": [
+              {
+                "x": 940,
+                "y": 80
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "end2": {
+          "type": "flying_lead",
+          "termination_type": "tinned",
+          "strip_length_mm": null,
+          "tin_length_mm": null,
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [],
+            "bundleSide": "right"
+          }
+        },
+        "label": "24V",
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 500,
+        "twisted_pair_id": null
+      },
+      "W2": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "X1",
+          "pin": 3,
+          "side": "left",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "manual",
+            "waypoints": [
+              {
+                "x": 960,
+                "y": 180
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "end2": {
+          "type": "flying_lead",
+          "termination_type": "tinned",
+          "strip_length_mm": null,
+          "tin_length_mm": null,
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [],
+            "bundleSide": "right"
+          }
+        },
+        "label": "24V",
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": null,
+        "twisted_pair_id": null
+      },
+      "W3": {
+        "end1": {
+          "type": "connector_pin",
+          "connector_instance": "X1",
+          "pin": 2,
+          "side": "left",
+          "terminal_instance": null,
+          "routing": {
+            "mode": "manual",
+            "waypoints": [
+              {
+                "x": 960,
+                "y": 120
+              }
+            ],
+            "bundleSide": "right"
+          }
+        },
+        "end2": {
+          "type": "flying_lead",
+          "termination_type": "tinned",
+          "strip_length_mm": null,
+          "tin_length_mm": null,
+          "terminal_instance": null,
+          "routing": {
+            "mode": "auto",
+            "waypoints": [],
+            "bundleSide": "right"
+          }
+        },
+        "label": "GND",
+        "label_end1": null,
+        "label_end2": null,
+        "length_mm": 200,
+        "twisted_pair_id": null
+      }
+    },
+    "connector_positions": {
+      "X1": {
+        "x": 660,
+        "y": 30,
+        "height": 140
+      }
+    },
+    "wire_anchors": {
+      "W3": {
+        "x": 1020,
+        "y": 60
+      },
+      "W1": {
+        "x": 1020,
+        "y": -10
+      },
+      "W2": {
+        "x": 1020,
+        "y": 130
+      },
+      "X1": {
+        "x": 0,
+        "y": 0
+      },
+      "W4": {
+        "x": 1020,
+        "y": 200
+      }
+    },
+    "cable_positions": {},
+    "design_notes": [],
+    "name": "Power In",
+    "description": null,
+    "notes": null
+  },
+  "harness_id": "current",
+  "revision_id": "aced75c6-523c-4d68-a40e-918fbc89625b"
+}

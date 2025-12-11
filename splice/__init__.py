@@ -5,7 +5,7 @@ Create cable harness designs in Python and export them as JSON files
 for upload to Splice.
 """
 
-__version__ = "0.1.0b1"
+__version__ = "0.2.0"
 
 # Core classes
 from .harness import Harness
@@ -14,6 +14,7 @@ from .parts import Wire, CableCore
 from .connections import FlyingLead
 from .components import PinRef, CoreRef
 from .validation import ValidationResult
+from .labels import BundleLabel, LabelSettings
 
 # Enums for type safety
 from .enums import (
@@ -39,6 +40,8 @@ __all__ = [
     "CoreRef",
     "FlyingLead",
     "ValidationResult",
+    "BundleLabel",
+    "LabelSettings",
     # Enums
     "WireColor",
     "ConductorType",

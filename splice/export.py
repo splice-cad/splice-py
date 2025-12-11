@@ -387,6 +387,27 @@ def harness_to_splice_format(harness: "Harness") -> Dict[str, Any]:
         }
         design_notes.append(design_note)
 
+    # Convert labels
+    bundle_labels: Dict[str, Any] = {}
+    for label in harness.labels:
+        label_data: Dict[str, Any] = {
+            "id": label.id,
+            "label_text": label.label_text,
+            "is_auto_generated": label.is_auto_generated,
+            "width_mm": label.width_mm,
+            "font_size": label.font_size,
+            "text_color": label.text_color,
+            "background_color": label.background_color,
+            "wire_keys": label.wire_keys,
+        }
+        if label.connector_instance_id:
+            label_data["connector_instance_id"] = label.connector_instance_id
+        if label.cable_instance_id:
+            label_data["cable_instance_id"] = label.cable_instance_id
+        if label.cable_end:
+            label_data["cable_end"] = label.cable_end
+        bundle_labels[label.id] = label_data
+
     # Build the final structure
     return {
         "bom": bom,
@@ -396,6 +417,11 @@ def harness_to_splice_format(harness: "Harness") -> Dict[str, Any]:
             "cable_positions": cable_positions,
             "wire_anchors": wire_anchors,
             "design_notes": design_notes,
+            "bundle_labels": bundle_labels,
+            "label_settings": {
+                "show_labels_on_canvas": harness.label_settings.show_labels_on_canvas,
+                "default_width_mm": harness.label_settings.default_width_mm,
+            },
             "name": harness.name,
             "description": harness.description or "",
             "notes": None,

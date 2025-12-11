@@ -3,7 +3,7 @@ Main Harness class for building cable harness designs.
 """
 
 import json
-from typing import List, Optional, Tuple, Any, Dict, Union
+from typing import List, Optional, Tuple, Any, Dict, Union, Literal
 from .types import ComponentType
 from .parts import Wire, CableCore
 from .components import (
@@ -14,6 +14,7 @@ from .components import (
 )
 from .connections import Connection, ConnectionEnd, FlyingLead
 from .utils import DesignatorGenerator
+from .labels import BundleLabel, LabelSettings
 
 try:
     import requests
@@ -49,6 +50,8 @@ class Harness:
         self.components: List[ComponentInstance] = []
         self.connections: List[Connection] = []
         self.notes: List[Dict[str, Any]] = []
+        self.labels: List[BundleLabel] = []
+        self.label_settings = LabelSettings()
         self._designator_gen = DesignatorGenerator()
 
     def add_component(
@@ -218,6 +221,130 @@ class Harness:
         self.notes.append(
             {"position": {"x": position[0], "y": position[1]}, "title": title, "content": content}
         )
+
+    def add_label(
+        self,
+        text: str,
+        connector: Optional[ComponentInstance] = None,
+        cable: Optional[ComponentInstance] = None,
+        cable_end: Optional[Literal["start", "end", "both"]] = None,
+        wire_keys: Optional[List[str]] = None,
+        auto_designator: bool = False,
+        width_mm: Optional[float] = None,
+        font_size: float = 10.0,
+        text_color: str = "#000000",
+        background_color: str = "#FFFFFF",
+    ) -> BundleLabel:
+        """
+        Add a label to a connector or cable.
+
+        Labels are used for identification and heat-shrink label printing.
+        Each label can be customized with text, dimensions, and colors.
+
+        Args:
+            text: Label text (e.g., "J1", "TO POWER SUPPLY"). If auto_designator
+                is True and text is empty, the component designator will be used.
+            connector: Connector component to attach the label to
+            cable: Cable component to attach the label to
+            cable_end: Which end of the cable to label ("start", "end", "both").
+                Only applicable when labeling a cable.
+            wire_keys: Specific wire instance IDs this label covers.
+                Empty list or None means all wires in the bundle.
+            auto_designator: If True, use the component designator as label text
+            width_mm: Label width in millimeters. If None, uses label_settings.default_width_mm
+            font_size: Font size for label text (default: 10)
+            text_color: Text color in hex format (default: "#000000")
+            background_color: Background color in hex format (default: "#FFFFFF")
+
+        Returns:
+            The created BundleLabel object
+
+        Raises:
+            ValueError: If neither connector nor cable is specified, or if both are specified
+
+        Example:
+            >>> label = harness.add_label(
+            ...     text="J1",
+            ...     connector=x1,
+            ...     width_mm=12,
+            ...     background_color="#FFFF00"
+            ... )
+        """
+        if connector is None and cable is None:
+            raise ValueError("Either 'connector' or 'cable' must be specified")
+        if connector is not None and cable is not None:
+            raise ValueError("Cannot specify both 'connector' and 'cable'")
+
+        # Determine label text
+        label_text = text
+        is_auto_generated = auto_designator
+        if auto_designator and not text:
+            if connector is not None:
+                label_text = connector.designator
+            elif cable is not None:
+                label_text = cable.designator
+
+        # Use default width if not specified
+        if width_mm is None:
+            width_mm = self.label_settings.default_width_mm
+
+        # Create label
+        label = BundleLabel(
+            label_text=label_text,
+            is_auto_generated=is_auto_generated,
+            connector_instance_id=connector.designator if connector else None,
+            cable_instance_id=cable.designator if cable else None,
+            cable_end=cable_end,
+            wire_keys=wire_keys or [],
+            width_mm=width_mm,
+            font_size=font_size,
+            text_color=text_color,
+            background_color=background_color,
+        )
+
+        self.labels.append(label)
+        return label
+
+    def remove_label(self, label: BundleLabel) -> None:
+        """
+        Remove a label from the harness.
+
+        Args:
+            label: The BundleLabel object to remove
+
+        Raises:
+            ValueError: If the label is not found in the harness
+        """
+        if label not in self.labels:
+            raise ValueError("Label not found in harness")
+        self.labels.remove(label)
+
+    def get_labels(
+        self,
+        connector: Optional[ComponentInstance] = None,
+        cable: Optional[ComponentInstance] = None,
+    ) -> List[BundleLabel]:
+        """
+        Get labels, optionally filtered by component.
+
+        Args:
+            connector: Filter to labels attached to this connector
+            cable: Filter to labels attached to this cable
+
+        Returns:
+            List of matching BundleLabel objects. If no filters specified,
+            returns all labels.
+        """
+        if connector is None and cable is None:
+            return list(self.labels)
+
+        result = []
+        for label in self.labels:
+            if connector is not None and label.connector_instance_id == connector.designator:
+                result.append(label)
+            elif cable is not None and label.cable_instance_id == cable.designator:
+                result.append(label)
+        return result
 
     def validate(self) -> "ValidationResult":
         """

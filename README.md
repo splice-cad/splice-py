@@ -74,6 +74,7 @@ print(f"Harness uploaded! View at: https://splice-cad.com/#/harness")
 - 📋 Multi-core cable support
 - 🔌 Flying lead terminations
 - 📝 Design notes
+- 🏷️ Bundle labels for heat-shrink printing
 - 🎨 Custom positioning
 - 📦 Generates Splice-compatible JSON
 - 🚀 Direct API upload to Splice account
@@ -234,6 +235,61 @@ cb1 = harness.add_component(
 )
 ```
 
+### Bundle Labels
+
+Add labels to connectors and cables for identification and heat-shrink printing:
+
+```python
+# Add a label to a connector
+label = harness.add_label(
+    text="J1",
+    connector=x1,
+    width_mm=12,
+    background_color="#FFFF00"  # Yellow background
+)
+
+# Add auto-generated label (uses component designator)
+harness.add_label(
+    text="",
+    connector=x1,
+    auto_designator=True  # Will use "X1" as label text
+)
+
+# Add cable label at both ends
+harness.add_label(
+    text="POWER CABLE",
+    cable=c1,
+    cable_end="both"  # "start", "end", or "both"
+)
+
+# Label specific wires only
+harness.add_label(
+    text="V+",
+    connector=x1,
+    wire_keys=["W1", "W2"]  # Only these wires
+)
+
+# Customize label appearance
+harness.add_label(
+    text="CAUTION",
+    connector=x1,
+    width_mm=15,
+    font_size=8,
+    text_color="#FFFFFF",
+    background_color="#FF0000"
+)
+
+# Configure global label settings
+harness.label_settings.show_labels_on_canvas = True
+harness.label_settings.default_width_mm = 12
+
+# Get labels for a specific component
+labels = harness.get_labels(connector=x1)
+
+# Remove a label
+harness.remove_label(label)
+```
+
 ### API Upload
 
 Upload harnesses directly to your Splice account using an API key:
@@ -295,6 +351,10 @@ for i in range(1, 101):
 class Harness:
     def __init__(self, name: str, description: str = "")
 
+    # Attributes
+    labels: List[BundleLabel]        # All labels in the harness
+    label_settings: LabelSettings    # Global label settings
+
     def add_component(
         kind: ComponentType,
         mpn: str,
@@ -312,6 +372,25 @@ class Harness:
         label: Optional[str] = None
     ) -> Connection
 
+    def add_label(
+        text: str,
+        connector: Optional[ComponentInstance] = None,
+        cable: Optional[ComponentInstance] = None,
+        cable_end: Optional[Literal["start", "end", "both"]] = None,
+        wire_keys: Optional[List[str]] = None,
+        auto_designator: bool = False,
+        width_mm: Optional[float] = None,  # Uses label_settings.default_width_mm
+        font_size: float = 10.0,
+        text_color: str = "#000000",
+        background_color: str = "#FFFFFF"
+    ) -> BundleLabel
+
+    def remove_label(label: BundleLabel) -> None
+    def get_labels(
+        connector: Optional[ComponentInstance] = None,
+        cable: Optional[ComponentInstance] = None
+    ) -> List[BundleLabel]
+
     def validate() -> ValidationResult
     def save(filepath: str)
     def to_json() -> str
@@ -322,6 +401,33 @@ class Harness:
         is_public: bool = False,
         api_url: str = "https://splice-cad.com"
     ) -> Dict[str, Any]
+```
+
+### BundleLabel
+
+```python
+@dataclass
+class BundleLabel:
+    label_text: str                  # Label text content
+    is_auto_generated: bool = False  # True if using component designator
+    connector_instance_id: Optional[str] = None  # "X1", "PS1", etc.
+    cable_instance_id: Optional[str] = None      # "C1", etc.
+    cable_end: Optional[Literal["start", "end", "both"]] = None
+    wire_keys: List[str] = []        # Specific wires (empty = all)
+    width_mm: float = 9.0            # Label width for heat-shrink
+    font_size: float = 10.0
+    text_color: str = "#000000"
+    background_color: str = "#FFFFFF"
+    id: str  # Auto-generated UUID
+```
+
+### LabelSettings
+
+```python
+@dataclass
+class LabelSettings:
+    show_labels_on_canvas: bool = True  # Display labels on canvas
+    default_width_mm: float = 9.0       # Default label width
 ```
 
 ## Development
